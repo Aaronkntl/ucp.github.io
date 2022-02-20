@@ -1,0 +1,9 @@
+C:\Users\2nd\Downloads\GM DEDY\gamemodes\test.pwn(6315) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\2nd\Downloads\GM DEDY\gamemodes\test.pwn(6630) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\2nd\Downloads\GM DEDY\gamemodes\test.pwn(6631) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\2nd\Downloads\GM DEDY\gamemodes\test.pwn(44870) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\2nd\Downloads\GM DEDY\gamemodes\test.pwn(44872) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:2.

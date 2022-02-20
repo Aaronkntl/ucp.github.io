@@ -1,0 +1,5287 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:13:08] password = ""  (string)
+[22:13:08] lagcompmode = 1  (int)
+[22:13:08] filterscripts = ""  (string)
+[22:13:08] 
+[22:13:08] Server Plugins
+[22:13:08] --------------
+[22:13:08]  Loading plugin: sampvoice
+[22:13:08] [sv:dbg:network:init] : module initializing...
+[22:13:08] [dbg:raknet:init] : module initializing...
+[22:13:08] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:13:08] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:13:08] [dbg:raknet:init] : module initialized
+[22:13:08] [sv:dbg:network:init] : module initialized
+[22:13:08]  -------------------------------------------    
+[22:13:08]    ___                __   __    _              
+[22:13:08]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:13:08]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:13:08]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:13:08]                   |_|                           
+[22:13:08]  -------------------------------------------    
+[22:13:08]            SampVoice by MOR loaded              
+[22:13:08]  -------------------------------------------    
+[22:13:08]   Loaded.
+[22:13:08]  Loading plugin: crashdetect
+[22:13:09]   CrashDetect plugin 4.19.4
+[22:13:09]   Loaded.
+[22:13:09]  Loading plugin: streamer
+[22:13:09] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:13:09]   Loaded.
+[22:13:09]  Loading plugin: mysql
+[22:13:09]  >> plugin.mysql: R39-6 successfully loaded.
+[22:13:09]   Loaded.
+[22:13:09]  Loading plugin: dc_cmd
+[22:13:09]   Daniel's CMD plugin v2.8
+[22:13:09]     (c) 2014 Daniel_Cortez
+[22:13:09] 	www.pro-pawn.ru
+[22:13:09]   Loaded.
+[22:13:09]  Loading plugin: ColAndreas
+[22:13:09] *********************
+[22:13:09] ** Created By:     **
+[22:13:09] ** [uL]Chris42O    **
+[22:13:09] ** [uL]Slice       **
+[22:13:09] ** [uL]Pottus      **
+[22:13:09] *********************
+[22:13:09] No collision data found.
+[22:13:09] *********************
+[22:13:09]   ColAndreas Loaded
+[22:13:09]    v1.4.0
+[22:13:09] *********************
+[22:13:09]   Loaded.
+[22:13:09]  Loading plugin: sscanf
+[22:13:09] 
+
+[22:13:09]  ===============================
+
+[22:13:09]       sscanf plugin loaded.     
+
+[22:13:09]          Version:  2.8.3        
+
+[22:13:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:13:09]  ===============================
+
+[22:13:09]   Loaded.
+[22:13:09]  Loading plugin: timerfix
+[22:13:09]   >> TimerFix v1.5 successfully loaded.
+[22:13:09]   Loaded.
+[22:13:09]  Loaded 8 plugins.
+
+[22:13:09] 
+[22:13:09] Filterscripts
+[22:13:09] ---------------
+[22:13:09]   Loaded 0 filterscripts.
+
+[22:13:09] [sv:dbg:main:AmxLoad] : net game pointer (value:02429C88) received
+[22:13:09] [sv:dbg:network:bind] : voice server running on port 49326
+[22:13:09] [Vehicle]: Semua kendaraan dibuat
+[22:13:09] [TextDraw]: Semua kesehatan teks dibuat
+[22:13:09] [DYNAMIC PICK] Loaded
+[22:13:09] [TP]: Semua input/output dibuat
+[22:13:09] [ATM]: Semua ATM dibuat
+[22:13:09] password = ""  (string)
+[22:13:09] Gagal terhubung ke database!
+[22:13:09] East City Pride Roleplay
+[22:13:09] Number of vehicle models: 100
+[22:13:18]  -------------------------------------------
+[22:13:18]            SampVoice unloading...           
+[22:13:18]  -------------------------------------------
+[22:13:18] [dbg:raknet:free] : module releasing...
+[22:13:18] [dbg:raknet:free] : module released
+[22:13:18] [sv:dbg:network:free] : module releasing...
+[22:13:18] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:14:56] password = ""  (string)
+[22:14:56] lagcompmode = 1  (int)
+[22:14:56] filterscripts = ""  (string)
+[22:14:56] 
+[22:14:56] Server Plugins
+[22:14:56] --------------
+[22:14:56]  Loading plugin: sampvoice
+[22:14:56] [sv:dbg:network:init] : module initializing...
+[22:14:56] [dbg:raknet:init] : module initializing...
+[22:14:56] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:14:56] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:14:56] [dbg:raknet:init] : module initialized
+[22:14:56] [sv:dbg:network:init] : module initialized
+[22:14:56]  -------------------------------------------    
+[22:14:56]    ___                __   __    _              
+[22:14:56]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:14:56]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:14:56]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:14:56]                   |_|                           
+[22:14:56]  -------------------------------------------    
+[22:14:56]            SampVoice by MOR loaded              
+[22:14:56]  -------------------------------------------    
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: crashdetect
+[22:14:56]   CrashDetect plugin 4.19.4
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: streamer
+[22:14:56] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: mysql
+[22:14:56]  >> plugin.mysql: R39-6 successfully loaded.
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: dc_cmd
+[22:14:56]   Daniel's CMD plugin v2.8
+[22:14:56]     (c) 2014 Daniel_Cortez
+[22:14:56] 	www.pro-pawn.ru
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: ColAndreas
+[22:14:56] *********************
+[22:14:56] ** Created By:     **
+[22:14:56] ** [uL]Chris42O    **
+[22:14:56] ** [uL]Slice       **
+[22:14:56] ** [uL]Pottus      **
+[22:14:56] *********************
+[22:14:56] No collision data found.
+[22:14:56] *********************
+[22:14:56]   ColAndreas Loaded
+[22:14:56]    v1.4.0
+[22:14:56] *********************
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: sscanf
+[22:14:56] 
+
+[22:14:56]  ===============================
+
+[22:14:56]       sscanf plugin loaded.     
+
+[22:14:56]          Version:  2.8.3        
+
+[22:14:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:14:56]  ===============================
+
+[22:14:56]   Loaded.
+[22:14:56]  Loading plugin: timerfix
+[22:14:56]   >> TimerFix v1.5 successfully loaded.
+[22:14:56]   Loaded.
+[22:14:56]  Loaded 8 plugins.
+
+[22:14:56] 
+[22:14:56] Filterscripts
+[22:14:56] ---------------
+[22:14:56]   Loaded 0 filterscripts.
+
+[22:14:56] [sv:dbg:main:AmxLoad] : net game pointer (value:02179C88) received
+[22:14:56] [sv:dbg:network:bind] : voice server running on port 61248
+[22:14:56] [Vehicle]: Semua kendaraan dibuat
+[22:14:56] [TextDraw]: Semua kesehatan teks dibuat
+[22:14:56] [DYNAMIC PICK] Loaded
+[22:14:56] [TP]: Semua input/output dibuat
+[22:14:56] [ATM]: Semua ATM dibuat
+[22:14:56] password = ""  (string)
+[22:14:56] Gagal terhubung ke database!
+[22:14:56] Indonesia Unity Roleplay
+[22:14:56] Number of vehicle models: 85
+[22:14:59]  -------------------------------------------
+[22:14:59]            SampVoice unloading...           
+[22:14:59]  -------------------------------------------
+[22:14:59] [dbg:raknet:free] : module releasing...
+[22:14:59] [dbg:raknet:free] : module released
+[22:14:59] [sv:dbg:network:free] : module releasing...
+[22:14:59] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:53] password = ""  (string)
+[22:15:53] lagcompmode = 1  (int)
+[22:15:53] filterscripts = ""  (string)
+[22:15:53] 
+[22:15:53] Server Plugins
+[22:15:53] --------------
+[22:15:53]  Loading plugin: sampvoice
+[22:15:53] [sv:dbg:network:init] : module initializing...
+[22:15:53] [dbg:raknet:init] : module initializing...
+[22:15:53] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:15:53] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:15:53] [dbg:raknet:init] : module initialized
+[22:15:53] [sv:dbg:network:init] : module initialized
+[22:15:53]  -------------------------------------------    
+[22:15:53]    ___                __   __    _              
+[22:15:53]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:15:53]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:15:53]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:15:53]                   |_|                           
+[22:15:53]  -------------------------------------------    
+[22:15:53]            SampVoice by MOR loaded              
+[22:15:53]  -------------------------------------------    
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: crashdetect
+[22:15:53]   CrashDetect plugin 4.19.4
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: streamer
+[22:15:53] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: mysql
+[22:15:53]  >> plugin.mysql: R39-6 successfully loaded.
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: dc_cmd
+[22:15:53]   Daniel's CMD plugin v2.8
+[22:15:53]     (c) 2014 Daniel_Cortez
+[22:15:53] 	www.pro-pawn.ru
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: ColAndreas
+[22:15:53] *********************
+[22:15:53] ** Created By:     **
+[22:15:53] ** [uL]Chris42O    **
+[22:15:53] ** [uL]Slice       **
+[22:15:53] ** [uL]Pottus      **
+[22:15:53] *********************
+[22:15:53] No collision data found.
+[22:15:53] *********************
+[22:15:53]   ColAndreas Loaded
+[22:15:53]    v1.4.0
+[22:15:53] *********************
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: sscanf
+[22:15:53] 
+
+[22:15:53]  ===============================
+
+[22:15:53]       sscanf plugin loaded.     
+
+[22:15:53]          Version:  2.8.3        
+
+[22:15:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:15:53]  ===============================
+
+[22:15:53]   Loaded.
+[22:15:53]  Loading plugin: timerfix
+[22:15:53]   >> TimerFix v1.5 successfully loaded.
+[22:15:53]   Loaded.
+[22:15:53]  Loaded 8 plugins.
+
+[22:15:53] 
+[22:15:53] Filterscripts
+[22:15:53] ---------------
+[22:15:53]   Loaded 0 filterscripts.
+
+[22:15:53] [sv:dbg:main:AmxLoad] : net game pointer (value:02519C88) received
+[22:15:53] [sv:dbg:network:bind] : voice server running on port 50941
+[22:15:53] [Vehicle]: Semua kendaraan dibuat
+[22:15:53] [TextDraw]: Semua kesehatan teks dibuat
+[22:15:53] [DYNAMIC PICK] Loaded
+[22:15:53] [TP]: Semua input/output dibuat
+[22:15:53] [ATM]: Semua ATM dibuat
+[22:15:53] password = ""  (string)
+[22:15:53] [Repositories]: Semua gudang dimuat
+[22:15:53] 227 Load House
+[22:15:53] 228 Load House
+[22:15:53] 230 Load House
+[22:15:53] 231 Load House
+[22:15:53] 233 Load House
+[22:15:53] 236 Load House
+[22:15:53] 245 Load House
+[22:15:53] [Houses]: Rumah dimuat: 377
+[22:15:53] [Houses]: Penyewa diunggah: 0
+[22:15:53] [Family]: Keluarga : 14
+[22:15:53] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[22:15:53] [FuelST]: Isi ulang diunggah: 4
+[22:15:53] [Business]: Bisnis dimuat: 101
+[22:15:53] [GangZones]: Gangzon dimuat: 60
+[22:15:53] [GangRepositories]: Gudang Gang dimuat
+[22:15:53] Indonesia Unity Roleplay
+[22:15:53] Number of vehicle models: 85
+[22:17:08] [connection] 192.168.0.3:60690 requests connection cookie.
+[22:17:09] [connection] incoming connection: 192.168.0.3:60690 id: 0
+[22:17:09] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[22:17:36] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:17:36] [part] Jhon_Sing has left the server (0:1)
+[22:29:08]  -------------------------------------------
+[22:29:08]            SampVoice unloading...           
+[22:29:08]  -------------------------------------------
+[22:29:09] [dbg:raknet:free] : module releasing...
+[22:29:09] [dbg:raknet:free] : module released
+[22:29:09] [sv:dbg:network:free] : module releasing...
+[22:29:09] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:42] password = ""  (string)
+[23:38:42] lagcompmode = 1  (int)
+[23:38:42] filterscripts = ""  (string)
+[23:38:42] 
+[23:38:42] Server Plugins
+[23:38:42] --------------
+[23:38:42]  Loading plugin: sampvoice
+[23:38:42] [sv:dbg:network:init] : module initializing...
+[23:38:42] [dbg:raknet:init] : module initializing...
+[23:38:42] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[23:38:42] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:38:42] [dbg:raknet:init] : module initialized
+[23:38:42] [sv:dbg:network:init] : module initialized
+[23:38:42]  -------------------------------------------    
+[23:38:42]    ___                __   __    _              
+[23:38:42]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:38:42]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:38:42]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:38:42]                   |_|                           
+[23:38:42]  -------------------------------------------    
+[23:38:42]            SampVoice by MOR loaded              
+[23:38:42]  -------------------------------------------    
+[23:38:42]   Loaded.
+[23:38:42]  Loading plugin: crashdetect
+[23:38:42]   CrashDetect plugin 4.19.4
+[23:38:42]   Loaded.
+[23:38:42]  Loading plugin: streamer
+[23:38:43] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[23:38:43]   Loaded.
+[23:38:43]  Loading plugin: mysql
+[23:38:43]  >> plugin.mysql: R39-6 successfully loaded.
+[23:38:43]   Loaded.
+[23:38:43]  Loading plugin: dc_cmd
+[23:38:43]   Daniel's CMD plugin v2.8
+[23:38:43]     (c) 2014 Daniel_Cortez
+[23:38:43] 	www.pro-pawn.ru
+[23:38:43]   Loaded.
+[23:38:43]  Loading plugin: ColAndreas
+[23:38:43] *********************
+[23:38:43] ** Created By:     **
+[23:38:43] ** [uL]Chris42O    **
+[23:38:43] ** [uL]Slice       **
+[23:38:43] ** [uL]Pottus      **
+[23:38:43] *********************
+[23:38:43] No collision data found.
+[23:38:43] *********************
+[23:38:43]   ColAndreas Loaded
+[23:38:43]    v1.4.0
+[23:38:43] *********************
+[23:38:43]   Loaded.
+[23:38:43]  Loading plugin: sscanf
+[23:38:43] 
+
+[23:38:43]  ===============================
+
+[23:38:43]       sscanf plugin loaded.     
+
+[23:38:43]          Version:  2.8.3        
+
+[23:38:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:38:43]  ===============================
+
+[23:38:43]   Loaded.
+[23:38:43]  Loading plugin: timerfix
+[23:38:43]   >> TimerFix v1.5 successfully loaded.
+[23:38:43]   Loaded.
+[23:38:43]  Loaded 8 plugins.
+
+[23:38:43] 
+[23:38:43] Filterscripts
+[23:38:43] ---------------
+[23:38:43]   Loaded 0 filterscripts.
+
+[23:38:43] [sv:dbg:main:AmxLoad] : net game pointer (value:022A9C88) received
+[23:38:43] [sv:dbg:network:bind] : voice server running on port 55281
+[23:38:43] [Vehicle]: Semua kendaraan dibuat
+[23:38:43] [TextDraw]: Semua kesehatan teks dibuat
+[23:38:43] [DYNAMIC PICK] Loaded
+[23:38:43] [TP]: Semua input/output dibuat
+[23:38:43] [ATM]: Semua ATM dibuat
+[23:38:43] password = ""  (string)
+[23:38:43] [Repositories]: Semua gudang dimuat
+[23:38:43] 227 Load House
+[23:38:43] 228 Load House
+[23:38:43] 230 Load House
+[23:38:43] 231 Load House
+[23:38:43] 233 Load House
+[23:38:43] 236 Load House
+[23:38:43] 245 Load House
+[23:38:43] [Houses]: Rumah dimuat: 377
+[23:38:43] [Houses]: Penyewa diunggah: 0
+[23:38:43] [Family]: Keluarga : 14
+[23:38:43] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[23:38:43] [FuelST]: Isi ulang diunggah: 4
+[23:38:43] [Business]: Bisnis dimuat: 101
+[23:38:43] [GangZones]: Gangzon dimuat: 60
+[23:38:43] [GangRepositories]: Gudang Gang dimuat
+[23:38:43] Indonesia Unity Roleplay
+[23:38:43] Number of vehicle models: 85
+[23:39:06] [connection] 192.168.0.3:51960 requests connection cookie.
+[23:39:07] [connection] incoming connection: 192.168.0.3:51960 id: 0
+[23:39:07] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[23:39:33] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:39:33] [part] Jhon_Sing1 has left the server (0:1)
+[23:40:31]  -------------------------------------------
+[23:40:31]            SampVoice unloading...           
+[23:40:31]  -------------------------------------------
+[23:40:31] [dbg:raknet:free] : module releasing...
+[23:40:31] [dbg:raknet:free] : module released
+[23:40:31] [sv:dbg:network:free] : module releasing...
+[23:40:31] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:49:06] password = ""  (string)
+[23:49:06] lagcompmode = 1  (int)
+[23:49:06] filterscripts = ""  (string)
+[23:49:06] 
+[23:49:06] Server Plugins
+[23:49:06] --------------
+[23:49:06]  Loading plugin: sampvoice
+[23:49:06] [sv:dbg:network:init] : module initializing...
+[23:49:06] [dbg:raknet:init] : module initializing...
+[23:49:06] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[23:49:06] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:49:06] [dbg:raknet:init] : module initialized
+[23:49:06] [sv:dbg:network:init] : module initialized
+[23:49:06]  -------------------------------------------    
+[23:49:06]    ___                __   __    _              
+[23:49:06]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:49:06]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:49:06]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:49:06]                   |_|                           
+[23:49:06]  -------------------------------------------    
+[23:49:06]            SampVoice by MOR loaded              
+[23:49:06]  -------------------------------------------    
+[23:49:06]   Loaded.
+[23:49:06]  Loading plugin: crashdetect
+[23:49:06]   CrashDetect plugin 4.19.4
+[23:49:06]   Loaded.
+[23:49:06]  Loading plugin: streamer
+[23:49:06] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[23:49:06]   Loaded.
+[23:49:06]  Loading plugin: mysql
+[23:49:06]  >> plugin.mysql: R39-6 successfully loaded.
+[23:49:06]   Loaded.
+[23:49:06]  Loading plugin: dc_cmd
+[23:49:06]   Daniel's CMD plugin v2.8
+[23:49:07]     (c) 2014 Daniel_Cortez
+[23:49:07] 	www.pro-pawn.ru
+[23:49:07]   Loaded.
+[23:49:07]  Loading plugin: ColAndreas
+[23:49:07] *********************
+[23:49:07] ** Created By:     **
+[23:49:07] ** [uL]Chris42O    **
+[23:49:07] ** [uL]Slice       **
+[23:49:07] ** [uL]Pottus      **
+[23:49:07] *********************
+[23:49:07] No collision data found.
+[23:49:07] *********************
+[23:49:07]   ColAndreas Loaded
+[23:49:07]    v1.4.0
+[23:49:07] *********************
+[23:49:07]   Loaded.
+[23:49:07]  Loading plugin: sscanf
+[23:49:07] 
+
+[23:49:07]  ===============================
+
+[23:49:07]       sscanf plugin loaded.     
+
+[23:49:07]          Version:  2.8.3        
+
+[23:49:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:49:07]  ===============================
+
+[23:49:07]   Loaded.
+[23:49:07]  Loading plugin: timerfix
+[23:49:07]   >> TimerFix v1.5 successfully loaded.
+[23:49:07]   Loaded.
+[23:49:07]  Loaded 8 plugins.
+
+[23:49:07] 
+[23:49:07] Filterscripts
+[23:49:07] ---------------
+[23:49:07]   Loaded 0 filterscripts.
+
+[23:49:07] [sv:dbg:main:AmxLoad] : net game pointer (value:02259C88) received
+[23:49:07] [sv:dbg:network:bind] : voice server running on port 64005
+[23:49:07] [Vehicle]: Semua kendaraan dibuat
+[23:49:07] [TextDraw]: Semua kesehatan teks dibuat
+[23:49:07] [DYNAMIC PICK] Loaded
+[23:49:07] [TP]: Semua input/output dibuat
+[23:49:07] [ATM]: Semua ATM dibuat
+[23:49:07] password = ""  (string)
+[23:49:07] [Repositories]: Semua gudang dimuat
+[23:49:07] 227 Load House
+[23:49:07] 228 Load House
+[23:49:07] 230 Load House
+[23:49:07] 231 Load House
+[23:49:07] 233 Load House
+[23:49:07] 236 Load House
+[23:49:07] 245 Load House
+[23:49:07] [Houses]: Rumah dimuat: 377
+[23:49:07] [Houses]: Penyewa diunggah: 0
+[23:49:07] [Family]: Keluarga : 14
+[23:49:07] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[23:49:07] [FuelST]: Isi ulang diunggah: 4
+[23:49:07] [Business]: Bisnis dimuat: 101
+[23:49:07] [GangZones]: Gangzon dimuat: 60
+[23:49:07] [GangRepositories]: Gudang Gang dimuat
+[23:49:07] Indonesia Unity Roleplay
+[23:49:07] Number of vehicle models: 85
+[23:49:29] [connection] 192.168.0.3:54657 requests connection cookie.
+[23:49:30] [connection] incoming connection: 192.168.0.3:54657 id: 0
+[23:49:30] [join] Jhon_Sing2 has joined the server (0:192.168.0.3)
+[23:50:10] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:50:10] [part] Jhon_Sing2 has left the server (0:1)
+[23:50:15]  -------------------------------------------
+[23:50:15]            SampVoice unloading...           
+[23:50:15]  -------------------------------------------
+[23:50:15] [dbg:raknet:free] : module releasing...
+[23:50:15] [dbg:raknet:free] : module released
+[23:50:15] [sv:dbg:network:free] : module releasing...
+[23:50:15] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:57:19] password = ""  (string)
+[23:57:19] lagcompmode = 1  (int)
+[23:57:19] filterscripts = ""  (string)
+[23:57:19] 
+[23:57:19] Server Plugins
+[23:57:19] --------------
+[23:57:19]  Loading plugin: sampvoice
+[23:57:19] [sv:dbg:network:init] : module initializing...
+[23:57:19] [dbg:raknet:init] : module initializing...
+[23:57:19] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[23:57:19] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[23:57:19] [dbg:raknet:init] : module initialized
+[23:57:19] [sv:dbg:network:init] : module initialized
+[23:57:19]  -------------------------------------------    
+[23:57:19]    ___                __   __    _              
+[23:57:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:57:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:57:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:57:19]                   |_|                           
+[23:57:19]  -------------------------------------------    
+[23:57:19]            SampVoice by MOR loaded              
+[23:57:19]  -------------------------------------------    
+[23:57:19]   Loaded.
+[23:57:19]  Loading plugin: crashdetect
+[23:57:19]   CrashDetect plugin 4.19.4
+[23:57:19]   Loaded.
+[23:57:19]  Loading plugin: streamer
+[23:57:19] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[23:57:19]   Loaded.
+[23:57:19]  Loading plugin: mysql
+[23:57:19]  >> plugin.mysql: R39-6 successfully loaded.
+[23:57:19]   Loaded.
+[23:57:19]  Loading plugin: dc_cmd
+[23:57:19]   Daniel's CMD plugin v2.8
+[23:57:19]     (c) 2014 Daniel_Cortez
+[23:57:19] 	www.pro-pawn.ru
+[23:57:19]   Loaded.
+[23:57:19]  Loading plugin: ColAndreas
+[23:57:19] *********************
+[23:57:20] ** Created By:     **
+[23:57:20] ** [uL]Chris42O    **
+[23:57:20] ** [uL]Slice       **
+[23:57:20] ** [uL]Pottus      **
+[23:57:20] *********************
+[23:57:20] No collision data found.
+[23:57:20] *********************
+[23:57:20]   ColAndreas Loaded
+[23:57:20]    v1.4.0
+[23:57:20] *********************
+[23:57:20]   Loaded.
+[23:57:20]  Loading plugin: sscanf
+[23:57:20] 
+
+[23:57:20]  ===============================
+
+[23:57:20]       sscanf plugin loaded.     
+
+[23:57:20]          Version:  2.8.3        
+
+[23:57:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:57:20]  ===============================
+
+[23:57:20]   Loaded.
+[23:57:20]  Loading plugin: timerfix
+[23:57:20]   >> TimerFix v1.5 successfully loaded.
+[23:57:20]   Loaded.
+[23:57:20]  Loaded 8 plugins.
+
+[23:57:20] 
+[23:57:20] Filterscripts
+[23:57:20] ---------------
+[23:57:20]   Loaded 0 filterscripts.
+
+[23:57:20] [sv:dbg:main:AmxLoad] : net game pointer (value:02259C88) received
+[23:57:20] [sv:dbg:network:bind] : voice server running on port 63858
+[23:57:20] [Vehicle]: Semua kendaraan dibuat
+[23:57:20] [TextDraw]: Semua kesehatan teks dibuat
+[23:57:20] [DYNAMIC PICK] Loaded
+[23:57:20] [TP]: Semua input/output dibuat
+[23:57:20] [ATM]: Semua ATM dibuat
+[23:57:20] password = ""  (string)
+[23:57:20] [Repositories]: Semua gudang dimuat
+[23:57:20] 227 Load House
+[23:57:20] 228 Load House
+[23:57:20] 230 Load House
+[23:57:20] 231 Load House
+[23:57:20] 233 Load House
+[23:57:20] 236 Load House
+[23:57:20] 245 Load House
+[23:57:20] [Houses]: Rumah dimuat: 377
+[23:57:20] [Houses]: Penyewa diunggah: 0
+[23:57:20] [Family]: Keluarga : 14
+[23:57:20] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[23:57:20] [FuelST]: Isi ulang diunggah: 4
+[23:57:20] [Business]: Bisnis dimuat: 101
+[23:57:20] [GangZones]: Gangzon dimuat: 60
+[23:57:20] [GangRepositories]: Gudang Gang dimuat
+[23:57:20] Indonesia Unity Roleplay
+[23:57:20] Number of vehicle models: 85
+[23:57:41] [connection] 192.168.0.3:58165 requests connection cookie.
+[23:57:42] [connection] incoming connection: 192.168.0.3:58165 id: 0
+[23:58:34] [connection] 192.168.0.3:53728 requests connection cookie.
+[23:58:35] [connection] incoming connection: 192.168.0.3:53728 id: 0
+[23:58:35] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[23:58:46] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:58:46] [part] Jhon_Sing has left the server (0:1)
+[23:58:50]  -------------------------------------------
+[23:58:50]            SampVoice unloading...           
+[23:58:50]  -------------------------------------------
+[23:58:51] [dbg:raknet:free] : module releasing...
+[23:58:51] [dbg:raknet:free] : module released
+[23:58:51] [sv:dbg:network:free] : module releasing...
+[23:58:51] [sv:dbg:network:free] : module released
+[23:58:51] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:42] password = ""  (string)
+[00:09:42] lagcompmode = 1  (int)
+[00:09:42] filterscripts = ""  (string)
+[00:09:42] 
+[00:09:42] Server Plugins
+[00:09:42] --------------
+[00:09:42]  Loading plugin: sampvoice
+[00:09:42] [sv:dbg:network:init] : module initializing...
+[00:09:42] [dbg:raknet:init] : module initializing...
+[00:09:42] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[00:09:42] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[00:09:42] [dbg:raknet:init] : module initialized
+[00:09:42] [sv:dbg:network:init] : module initialized
+[00:09:42]  -------------------------------------------    
+[00:09:42]    ___                __   __    _              
+[00:09:42]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:09:42]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:09:42]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:09:42]                   |_|                           
+[00:09:42]  -------------------------------------------    
+[00:09:42]            SampVoice by MOR loaded              
+[00:09:42]  -------------------------------------------    
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: crashdetect
+[00:09:42]   CrashDetect plugin 4.19.4
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: streamer
+[00:09:42] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: mysql
+[00:09:42]  >> plugin.mysql: R39-6 successfully loaded.
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: dc_cmd
+[00:09:42]   Daniel's CMD plugin v2.8
+[00:09:42]     (c) 2014 Daniel_Cortez
+[00:09:42] 	www.pro-pawn.ru
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: ColAndreas
+[00:09:42] *********************
+[00:09:42] ** Created By:     **
+[00:09:42] ** [uL]Chris42O    **
+[00:09:42] ** [uL]Slice       **
+[00:09:42] ** [uL]Pottus      **
+[00:09:42] *********************
+[00:09:42] No collision data found.
+[00:09:42] *********************
+[00:09:42]   ColAndreas Loaded
+[00:09:42]    v1.4.0
+[00:09:42] *********************
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: sscanf
+[00:09:42] 
+
+[00:09:42]  ===============================
+
+[00:09:42]       sscanf plugin loaded.     
+
+[00:09:42]          Version:  2.8.3        
+
+[00:09:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:09:42]  ===============================
+
+[00:09:42]   Loaded.
+[00:09:42]  Loading plugin: timerfix
+[00:09:42]   >> TimerFix v1.5 successfully loaded.
+[00:09:42]   Loaded.
+[00:09:42]  Loaded 8 plugins.
+
+[00:09:42] 
+[00:09:42] Filterscripts
+[00:09:42] ---------------
+[00:09:42]   Loaded 0 filterscripts.
+
+[00:09:42] [sv:dbg:main:AmxLoad] : net game pointer (value:021C9C88) received
+[00:09:42] [sv:dbg:network:bind] : voice server running on port 54420
+[00:09:42] [Vehicle]: Semua kendaraan dibuat
+[00:09:42] [TextDraw]: Semua kesehatan teks dibuat
+[00:09:42] [DYNAMIC PICK] Loaded
+[00:09:42] [TP]: Semua input/output dibuat
+[00:09:42] [ATM]: Semua ATM dibuat
+[00:09:42] password = ""  (string)
+[00:09:42] [Repositories]: Semua gudang dimuat
+[00:09:42] 227 Load House
+[00:09:42] 228 Load House
+[00:09:42] 230 Load House
+[00:09:42] 231 Load House
+[00:09:42] 233 Load House
+[00:09:42] 236 Load House
+[00:09:42] 245 Load House
+[00:09:42] [Houses]: Rumah dimuat: 377
+[00:09:42] [Houses]: Penyewa diunggah: 0
+[00:09:42] [Family]: Keluarga : 14
+[00:09:42] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[00:09:42] [FuelST]: Isi ulang diunggah: 4
+[00:09:42] [Business]: Bisnis dimuat: 101
+[00:09:42] [GangZones]: Gangzon dimuat: 60
+[00:09:42] [GangRepositories]: Gudang Gang dimuat
+[00:09:42] Indonesia Unity Roleplay
+[00:09:42] Number of vehicle models: 85
+[00:10:08] [connection] 192.168.0.3:53548 requests connection cookie.
+[00:10:09] [connection] incoming connection: 192.168.0.3:53548 id: 0
+[00:10:09] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[00:10:40] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:10:40] [part] Jhon_Sing has left the server (0:1)
+[00:11:33] [connection] 192.168.0.3:52241 requests connection cookie.
+[00:11:34] [connection] incoming connection: 192.168.0.3:52241 id: 0
+[00:11:34] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[00:11:44] Mengambil bonus Jhon_Sing , sebelum bonus rekening bank 0
+[00:11:44] Mengambil bonus Jhon_Sing , setelah akun bonus bank 1500
+[00:12:02] [chat] [Jhon_Sing]: okeyyy dahh work untuk login website ucp sederhananya
+[00:12:35] [chat] [Jhon_Sing]: sekarang kita hapus dialog daftarnya karen kita sudah memakai ucp untuk loginnya
+[00:12:38] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:12:38] [part] Jhon_Sing has left the server (0:1)
+[00:12:47]  -------------------------------------------
+[00:12:47]            SampVoice unloading...           
+[00:12:47]  -------------------------------------------
+[00:12:47] [dbg:raknet:free] : module releasing...
+[00:12:47] [dbg:raknet:free] : module released
+[00:12:47] [sv:dbg:network:free] : module releasing...
+[00:12:47] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:48] password = ""  (string)
+[00:18:48] lagcompmode = 1  (int)
+[00:18:48] filterscripts = ""  (string)
+[00:18:48] 
+[00:18:48] Server Plugins
+[00:18:48] --------------
+[00:18:48]  Loading plugin: sampvoice
+[00:18:48] [sv:dbg:network:init] : module initializing...
+[00:18:48] [dbg:raknet:init] : module initializing...
+[00:18:48] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[00:18:48] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[00:18:48] [dbg:raknet:init] : module initialized
+[00:18:48] [sv:dbg:network:init] : module initialized
+[00:18:48]  -------------------------------------------    
+[00:18:48]    ___                __   __    _              
+[00:18:48]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:18:48]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:18:48]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:18:48]                   |_|                           
+[00:18:48]  -------------------------------------------    
+[00:18:48]            SampVoice by MOR loaded              
+[00:18:48]  -------------------------------------------    
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: crashdetect
+[00:18:48]   CrashDetect plugin 4.19.4
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: streamer
+[00:18:48] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: mysql
+[00:18:48]  >> plugin.mysql: R39-6 successfully loaded.
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: dc_cmd
+[00:18:48]   Daniel's CMD plugin v2.8
+[00:18:48]     (c) 2014 Daniel_Cortez
+[00:18:48] 	www.pro-pawn.ru
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: ColAndreas
+[00:18:48] *********************
+[00:18:48] ** Created By:     **
+[00:18:48] ** [uL]Chris42O    **
+[00:18:48] ** [uL]Slice       **
+[00:18:48] ** [uL]Pottus      **
+[00:18:48] *********************
+[00:18:48] No collision data found.
+[00:18:48] *********************
+[00:18:48]   ColAndreas Loaded
+[00:18:48]    v1.4.0
+[00:18:48] *********************
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: sscanf
+[00:18:48] 
+
+[00:18:48]  ===============================
+
+[00:18:48]       sscanf plugin loaded.     
+
+[00:18:48]          Version:  2.8.3        
+
+[00:18:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:18:48]  ===============================
+
+[00:18:48]   Loaded.
+[00:18:48]  Loading plugin: timerfix
+[00:18:48]   >> TimerFix v1.5 successfully loaded.
+[00:18:48]   Loaded.
+[00:18:48]  Loaded 8 plugins.
+
+[00:18:48] 
+[00:18:48] Filterscripts
+[00:18:48] ---------------
+[00:18:48]   Loaded 0 filterscripts.
+
+[00:18:48] [sv:dbg:main:AmxLoad] : net game pointer (value:02429C88) received
+[00:18:48] [sv:dbg:network:bind] : voice server running on port 61509
+[00:18:48] [Vehicle]: Semua kendaraan dibuat
+[00:18:48] [TextDraw]: Semua kesehatan teks dibuat
+[00:18:48] [DYNAMIC PICK] Loaded
+[00:18:48] [TP]: Semua input/output dibuat
+[00:18:48] [ATM]: Semua ATM dibuat
+[00:18:48] password = ""  (string)
+[00:18:48] [Repositories]: Semua gudang dimuat
+[00:18:48] 227 Load House
+[00:18:48] 228 Load House
+[00:18:48] 230 Load House
+[00:18:48] 231 Load House
+[00:18:48] 233 Load House
+[00:18:48] 236 Load House
+[00:18:48] 245 Load House
+[00:18:48] [Houses]: Rumah dimuat: 377
+[00:18:48] [Houses]: Penyewa diunggah: 0
+[00:18:48] [Family]: Keluarga : 14
+[00:18:48] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[00:18:48] [FuelST]: Isi ulang diunggah: 4
+[00:18:48] [Business]: Bisnis dimuat: 101
+[00:18:48] [GangZones]: Gangzon dimuat: 60
+[00:18:48] [GangRepositories]: Gudang Gang dimuat
+[00:18:48] Indonesia Unity Roleplay
+[00:18:48] Number of vehicle models: 85
+[00:19:15] [connection] 192.168.0.3:58332 requests connection cookie.
+[00:19:16] [connection] incoming connection: 192.168.0.3:58332 id: 0
+[00:19:16] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[00:19:42] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:19:42] [part] Jhon_Sing1 has left the server (0:1)
+[00:20:57] [connection] 192.168.0.3:53096 requests connection cookie.
+[00:20:58] [connection] incoming connection: 192.168.0.3:53096 id: 0
+[00:20:58] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[00:21:11] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:21:11] [part] Jhon_Sing1 has left the server (0:1)
+[00:22:11]  -------------------------------------------
+[00:22:11]            SampVoice unloading...           
+[00:22:11]  -------------------------------------------
+[00:22:12] [dbg:raknet:free] : module releasing...
+[00:22:12] [dbg:raknet:free] : module released
+[00:22:12] [sv:dbg:network:free] : module releasing...
+[00:22:12] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:26:08] password = ""  (string)
+[00:26:08] lagcompmode = 1  (int)
+[00:26:08] filterscripts = ""  (string)
+[00:26:08] 
+[00:26:08] Server Plugins
+[00:26:08] --------------
+[00:26:08]  Loading plugin: sampvoice
+[00:26:08] [sv:dbg:network:init] : module initializing...
+[00:26:08] [dbg:raknet:init] : module initializing...
+[00:26:08] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[00:26:08] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[00:26:08] [dbg:raknet:init] : module initialized
+[00:26:08] [sv:dbg:network:init] : module initialized
+[00:26:08]  -------------------------------------------    
+[00:26:08]    ___                __   __    _              
+[00:26:08]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:26:08]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:26:08]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:26:08]                   |_|                           
+[00:26:08]  -------------------------------------------    
+[00:26:08]            SampVoice by MOR loaded              
+[00:26:08]  -------------------------------------------    
+[00:26:08]   Loaded.
+[00:26:08]  Loading plugin: crashdetect
+[00:26:08]   CrashDetect plugin 4.19.4
+[00:26:08]   Loaded.
+[00:26:08]  Loading plugin: streamer
+[00:26:08] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[00:26:08]   Loaded.
+[00:26:08]  Loading plugin: mysql
+[00:26:08]  >> plugin.mysql: R39-6 successfully loaded.
+[00:26:08]   Loaded.
+[00:26:08]  Loading plugin: dc_cmd
+[00:26:08]   Daniel's CMD plugin v2.8
+[00:26:08]     (c) 2014 Daniel_Cortez
+[00:26:08] 	www.pro-pawn.ru
+[00:26:08]   Loaded.
+[00:26:08]  Loading plugin: ColAndreas
+[00:26:08] *********************
+[00:26:08] ** Created By:     **
+[00:26:08] ** [uL]Chris42O    **
+[00:26:08] ** [uL]Slice       **
+[00:26:08] ** [uL]Pottus      **
+[00:26:08] *********************
+[00:26:09] No collision data found.
+[00:26:09] *********************
+[00:26:09]   ColAndreas Loaded
+[00:26:09]    v1.4.0
+[00:26:09] *********************
+[00:26:09]   Loaded.
+[00:26:09]  Loading plugin: sscanf
+[00:26:09] 
+
+[00:26:09]  ===============================
+
+[00:26:09]       sscanf plugin loaded.     
+
+[00:26:09]          Version:  2.8.3        
+
+[00:26:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:26:09]  ===============================
+
+[00:26:09]   Loaded.
+[00:26:09]  Loading plugin: timerfix
+[00:26:09]   >> TimerFix v1.5 successfully loaded.
+[00:26:09]   Loaded.
+[00:26:09]  Loaded 8 plugins.
+
+[00:26:09] 
+[00:26:09] Filterscripts
+[00:26:09] ---------------
+[00:26:09]   Loaded 0 filterscripts.
+
+[00:26:09] [sv:dbg:main:AmxLoad] : net game pointer (value:02519C88) received
+[00:26:09] [sv:dbg:network:bind] : voice server running on port 52921
+[00:26:09] [Vehicle]: Semua kendaraan dibuat
+[00:26:09] [TextDraw]: Semua kesehatan teks dibuat
+[00:26:09] [DYNAMIC PICK] Loaded
+[00:26:09] [TP]: Semua input/output dibuat
+[00:26:09] [ATM]: Semua ATM dibuat
+[00:26:09] password = ""  (string)
+[00:26:09] [Repositories]: Semua gudang dimuat
+[00:26:09] 227 Load House
+[00:26:09] 228 Load House
+[00:26:09] 230 Load House
+[00:26:09] 231 Load House
+[00:26:09] 233 Load House
+[00:26:09] 236 Load House
+[00:26:09] 245 Load House
+[00:26:09] [Houses]: Rumah dimuat: 377
+[00:26:09] [Houses]: Penyewa diunggah: 0
+[00:26:09] [Family]: Keluarga : 14
+[00:26:09] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[00:26:09] [FuelST]: Isi ulang diunggah: 4
+[00:26:09] [Business]: Bisnis dimuat: 101
+[00:26:09] [GangZones]: Gangzon dimuat: 60
+[00:26:09] [GangRepositories]: Gudang Gang dimuat
+[00:26:09] Indonesia Unity Roleplay
+[00:26:09] Number of vehicle models: 85
+[00:26:31] [connection] 192.168.0.3:52134 requests connection cookie.
+[00:26:32] [connection] incoming connection: 192.168.0.3:52134 id: 0
+[00:26:32] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[00:27:00] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:27:00] [part] Jhon_Sing1 has left the server (0:1)
+[00:31:43]  -------------------------------------------
+[00:31:43]            SampVoice unloading...           
+[00:31:43]  -------------------------------------------
+[00:31:44] [dbg:raknet:free] : module releasing...
+[00:31:44] [dbg:raknet:free] : module released
+[00:31:44] [sv:dbg:network:free] : module releasing...
+[00:31:44] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:32:04] password = ""  (string)
+[00:32:04] lagcompmode = 1  (int)
+[00:32:04] filterscripts = ""  (string)
+[00:32:04] 
+[00:32:04] Server Plugins
+[00:32:04] --------------
+[00:32:04]  Loading plugin: sampvoice
+[00:32:04] [sv:dbg:network:init] : module initializing...
+[00:32:04] [dbg:raknet:init] : module initializing...
+[00:32:04] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[00:32:04] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[00:32:04] [dbg:raknet:init] : module initialized
+[00:32:04] [sv:dbg:network:init] : module initialized
+[00:32:04]  -------------------------------------------    
+[00:32:04]    ___                __   __    _              
+[00:32:04]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:32:04]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:32:04]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:32:04]                   |_|                           
+[00:32:04]  -------------------------------------------    
+[00:32:04]            SampVoice by MOR loaded              
+[00:32:04]  -------------------------------------------    
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: crashdetect
+[00:32:04]   CrashDetect plugin 4.19.4
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: streamer
+[00:32:04] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: mysql
+[00:32:04]  >> plugin.mysql: R39-6 successfully loaded.
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: dc_cmd
+[00:32:04]   Daniel's CMD plugin v2.8
+[00:32:04]     (c) 2014 Daniel_Cortez
+[00:32:04] 	www.pro-pawn.ru
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: ColAndreas
+[00:32:04] *********************
+[00:32:04] ** Created By:     **
+[00:32:04] ** [uL]Chris42O    **
+[00:32:04] ** [uL]Slice       **
+[00:32:04] ** [uL]Pottus      **
+[00:32:04] *********************
+[00:32:04] No collision data found.
+[00:32:04] *********************
+[00:32:04]   ColAndreas Loaded
+[00:32:04]    v1.4.0
+[00:32:04] *********************
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: sscanf
+[00:32:04] 
+
+[00:32:04]  ===============================
+
+[00:32:04]       sscanf plugin loaded.     
+
+[00:32:04]          Version:  2.8.3        
+
+[00:32:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:32:04]  ===============================
+
+[00:32:04]   Loaded.
+[00:32:04]  Loading plugin: timerfix
+[00:32:04]   >> TimerFix v1.5 successfully loaded.
+[00:32:04]   Loaded.
+[00:32:04]  Loaded 8 plugins.
+
+[00:32:04] 
+[00:32:04] Filterscripts
+[00:32:04] ---------------
+[00:32:04]   Loaded 0 filterscripts.
+
+[00:32:04] [sv:dbg:main:AmxLoad] : net game pointer (value:006C9C88) received
+[00:32:04] [sv:dbg:network:bind] : voice server running on port 60766
+[00:32:04] [Vehicle]: Semua kendaraan dibuat
+[00:32:04] [TextDraw]: Semua kesehatan teks dibuat
+[00:32:04] [DYNAMIC PICK] Loaded
+[00:32:04] [TP]: Semua input/output dibuat
+[00:32:04] [ATM]: Semua ATM dibuat
+[00:32:04] password = ""  (string)
+[00:32:04] [Repositories]: Semua gudang dimuat
+[00:32:04] 227 Load House
+[00:32:04] 228 Load House
+[00:32:04] 230 Load House
+[00:32:04] 231 Load House
+[00:32:04] 233 Load House
+[00:32:04] 236 Load House
+[00:32:04] 245 Load House
+[00:32:04] [Houses]: Rumah dimuat: 377
+[00:32:04] [Houses]: Penyewa diunggah: 0
+[00:32:04] [Family]: Keluarga : 14
+[00:32:04] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[00:32:04] [FuelST]: Isi ulang diunggah: 4
+[00:32:04] [Business]: Bisnis dimuat: 101
+[00:32:04] [GangZones]: Gangzon dimuat: 60
+[00:32:04] [GangRepositories]: Gudang Gang dimuat
+[00:32:04] Indonesia Unity Roleplay
+[00:32:04] Number of vehicle models: 85
+[00:33:42] [connection] 192.168.0.3:61334 requests connection cookie.
+[00:33:43] [connection] incoming connection: 192.168.0.3:61334 id: 0
+[00:33:44] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[00:34:14] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:34:14] [part] Jhon_Sing1 has left the server (0:1)
+[00:37:20]  -------------------------------------------
+[00:37:20]            SampVoice unloading...           
+[00:37:20]  -------------------------------------------
+[00:37:20] [dbg:raknet:free] : module releasing...
+[00:37:20] [dbg:raknet:free] : module released
+[00:37:20] [sv:dbg:network:free] : module releasing...
+[00:37:20] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:38:28] password = ""  (string)
+[00:38:28] lagcompmode = 1  (int)
+[00:38:28] filterscripts = ""  (string)
+[00:38:28] 
+[00:38:28] Server Plugins
+[00:38:28] --------------
+[00:38:28]  Loading plugin: sampvoice
+[00:38:28] [sv:dbg:network:init] : module initializing...
+[00:38:28] [dbg:raknet:init] : module initializing...
+[00:38:28] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[00:38:28] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[00:38:28] [dbg:raknet:init] : module initialized
+[00:38:28] [sv:dbg:network:init] : module initialized
+[00:38:28]  -------------------------------------------    
+[00:38:28]    ___                __   __    _              
+[00:38:28]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:38:28]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:38:28]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:38:28]                   |_|                           
+[00:38:28]  -------------------------------------------    
+[00:38:28]            SampVoice by MOR loaded              
+[00:38:28]  -------------------------------------------    
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: crashdetect
+[00:38:28]   CrashDetect plugin 4.19.4
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: streamer
+[00:38:28] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: mysql
+[00:38:28]  >> plugin.mysql: R39-6 successfully loaded.
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: dc_cmd
+[00:38:28]   Daniel's CMD plugin v2.8
+[00:38:28]     (c) 2014 Daniel_Cortez
+[00:38:28] 	www.pro-pawn.ru
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: ColAndreas
+[00:38:28] *********************
+[00:38:28] ** Created By:     **
+[00:38:28] ** [uL]Chris42O    **
+[00:38:28] ** [uL]Slice       **
+[00:38:28] ** [uL]Pottus      **
+[00:38:28] *********************
+[00:38:28] No collision data found.
+[00:38:28] *********************
+[00:38:28]   ColAndreas Loaded
+[00:38:28]    v1.4.0
+[00:38:28] *********************
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: sscanf
+[00:38:28] 
+
+[00:38:28]  ===============================
+
+[00:38:28]       sscanf plugin loaded.     
+
+[00:38:28]          Version:  2.8.3        
+
+[00:38:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:38:28]  ===============================
+
+[00:38:28]   Loaded.
+[00:38:28]  Loading plugin: timerfix
+[00:38:28]   >> TimerFix v1.5 successfully loaded.
+[00:38:28]   Loaded.
+[00:38:28]  Loaded 8 plugins.
+
+[00:38:28] 
+[00:38:28] Filterscripts
+[00:38:28] ---------------
+[00:38:28]   Loaded 0 filterscripts.
+
+[00:38:28] [sv:dbg:main:AmxLoad] : net game pointer (value:021F9C88) received
+[00:38:28] [sv:dbg:network:bind] : voice server running on port 53796
+[00:38:28] [Vehicle]: Semua kendaraan dibuat
+[00:38:28] [TextDraw]: Semua kesehatan teks dibuat
+[00:38:28] [DYNAMIC PICK] Loaded
+[00:38:28] [TP]: Semua input/output dibuat
+[00:38:28] [ATM]: Semua ATM dibuat
+[00:38:28] password = ""  (string)
+[00:38:28] [Repositories]: Semua gudang dimuat
+[00:38:28] 227 Load House
+[00:38:28] 228 Load House
+[00:38:28] 230 Load House
+[00:38:28] 231 Load House
+[00:38:28] 233 Load House
+[00:38:28] 236 Load House
+[00:38:28] 245 Load House
+[00:38:28] [Houses]: Rumah dimuat: 377
+[00:38:28] [Houses]: Penyewa diunggah: 0
+[00:38:28] [Family]: Keluarga : 14
+[00:38:28] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[00:38:28] [FuelST]: Isi ulang diunggah: 4
+[00:38:28] [Business]: Bisnis dimuat: 101
+[00:38:28] [GangZones]: Gangzon dimuat: 60
+[00:38:28] [GangRepositories]: Gudang Gang dimuat
+[00:38:28] Indonesia Unity Roleplay
+[00:38:28] Number of vehicle models: 85
+[00:38:50] [connection] 192.168.0.3:62823 requests connection cookie.
+[00:38:51] [connection] incoming connection: 192.168.0.3:62823 id: 0
+[00:38:51] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[00:39:13] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:39:13] [part] Jhon_Sing1 has left the server (0:1)
+[00:39:49]  -------------------------------------------
+[00:39:49]            SampVoice unloading...           
+[00:39:49]  -------------------------------------------
+[00:39:49] [dbg:raknet:free] : module releasing...
+[00:39:49] [dbg:raknet:free] : module released
+[00:39:49] [sv:dbg:network:free] : module releasing...
+[00:39:49] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:38:55] password = ""  (string)
+[09:38:55] lagcompmode = 1  (int)
+[09:38:55] filterscripts = ""  (string)
+[09:38:55] 
+[09:38:55] Server Plugins
+[09:38:55] --------------
+[09:38:55]  Loading plugin: sampvoice
+[09:38:55] [sv:dbg:network:init] : module initializing...
+[09:38:55] [dbg:raknet:init] : module initializing...
+[09:38:55] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[09:38:55] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[09:38:55] [dbg:raknet:init] : module initialized
+[09:38:55] [sv:dbg:network:init] : module initialized
+[09:38:55]  -------------------------------------------    
+[09:38:55]    ___                __   __    _              
+[09:38:55]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[09:38:55]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[09:38:55]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[09:38:55]                   |_|                           
+[09:38:55]  -------------------------------------------    
+[09:38:55]            SampVoice by MOR loaded              
+[09:38:55]  -------------------------------------------    
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: crashdetect
+[09:38:55]   CrashDetect plugin 4.19.4
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: streamer
+[09:38:55] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: mysql
+[09:38:55]  >> plugin.mysql: R39-6 successfully loaded.
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: dc_cmd
+[09:38:55]   Daniel's CMD plugin v2.8
+[09:38:55]     (c) 2014 Daniel_Cortez
+[09:38:55] 	www.pro-pawn.ru
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: ColAndreas
+[09:38:55] *********************
+[09:38:55] ** Created By:     **
+[09:38:55] ** [uL]Chris42O    **
+[09:38:55] ** [uL]Slice       **
+[09:38:55] ** [uL]Pottus      **
+[09:38:55] *********************
+[09:38:55] No collision data found.
+[09:38:55] *********************
+[09:38:55]   ColAndreas Loaded
+[09:38:55]    v1.4.0
+[09:38:55] *********************
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: sscanf
+[09:38:55] 
+
+[09:38:55]  ===============================
+
+[09:38:55]       sscanf plugin loaded.     
+
+[09:38:55]          Version:  2.8.3        
+
+[09:38:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:38:55]  ===============================
+
+[09:38:55]   Loaded.
+[09:38:55]  Loading plugin: timerfix
+[09:38:55]   >> TimerFix v1.5 successfully loaded.
+[09:38:55]   Loaded.
+[09:38:55]  Loaded 8 plugins.
+
+[09:38:55] 
+[09:38:55] Filterscripts
+[09:38:55] ---------------
+[09:38:55]   Loaded 0 filterscripts.
+
+[09:38:55] [sv:dbg:main:AmxLoad] : net game pointer (value:02489C98) received
+[09:38:55] [sv:dbg:network:bind] : voice server running on port 62445
+[09:38:55] [Vehicle]: Semua kendaraan dibuat
+[09:38:55] [TextDraw]: Semua kesehatan teks dibuat
+[09:38:55] [DYNAMIC PICK] Loaded
+[09:38:55] [TP]: Semua input/output dibuat
+[09:38:55] [ATM]: Semua ATM dibuat
+[09:38:55] password = ""  (string)
+[09:38:55] [Repositories]: Semua gudang dimuat
+[09:38:55] 227 Load House
+[09:38:55] 228 Load House
+[09:38:55] 230 Load House
+[09:38:55] 231 Load House
+[09:38:55] 233 Load House
+[09:38:55] 236 Load House
+[09:38:55] 245 Load House
+[09:38:55] [Houses]: Rumah dimuat: 377
+[09:38:55] [Houses]: Penyewa diunggah: 0
+[09:38:55] [Family]: Keluarga : 14
+[09:38:56] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[09:38:56] [FuelST]: Isi ulang diunggah: 4
+[09:38:56] [Business]: Bisnis dimuat: 101
+[09:38:56] [GangZones]: Gangzon dimuat: 60
+[09:38:56] [GangRepositories]: Gudang Gang dimuat
+[09:38:56] Indonesia Unity Roleplay
+[09:38:56] Number of vehicle models: 85
+[09:39:29] [connection] 192.168.0.3:54723 requests connection cookie.
+[09:39:30] [connection] incoming connection: 192.168.0.3:54723 id: 0
+[09:39:30] [join] Jhon_Sing1 has joined the server (0:192.168.0.3)
+[09:40:00] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:40:00] [part] Jhon_Sing1 has left the server (0:1)
+[09:41:15] [connection] 192.168.0.3:52491 requests connection cookie.
+[09:41:16] [connection] incoming connection: 192.168.0.3:52491 id: 0
+[09:41:17] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[09:41:31] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:41:31] [part] Jhon_Sing has left the server (0:1)
+[09:41:35]  -------------------------------------------
+[09:41:35]            SampVoice unloading...           
+[09:41:35]  -------------------------------------------
+[09:41:35] [dbg:raknet:free] : module releasing...
+[09:41:35] [dbg:raknet:free] : module released
+[09:41:35] [sv:dbg:network:free] : module releasing...
+[09:41:35] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:41:50] password = ""  (string)
+[09:41:50] lagcompmode = 1  (int)
+[09:41:50] filterscripts = ""  (string)
+[09:41:50] 
+[09:41:50] Server Plugins
+[09:41:50] --------------
+[09:41:50]  Loading plugin: sampvoice
+[09:41:50] [sv:dbg:network:init] : module initializing...
+[09:41:50] [dbg:raknet:init] : module initializing...
+[09:41:50] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[09:41:50] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[09:41:50] [dbg:raknet:init] : module initialized
+[09:41:50] [sv:dbg:network:init] : module initialized
+[09:41:50]  -------------------------------------------    
+[09:41:50]    ___                __   __    _              
+[09:41:50]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[09:41:50]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[09:41:50]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[09:41:50]                   |_|                           
+[09:41:50]  -------------------------------------------    
+[09:41:50]            SampVoice by MOR loaded              
+[09:41:50]  -------------------------------------------    
+[09:41:50]   Loaded.
+[09:41:51]  Loading plugin: crashdetect
+[09:41:51]   CrashDetect plugin 4.19.4
+[09:41:51]   Loaded.
+[09:41:51]  Loading plugin: streamer
+[09:41:51] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[09:41:51]   Loaded.
+[09:41:51]  Loading plugin: mysql
+[09:41:51]  >> plugin.mysql: R39-6 successfully loaded.
+[09:41:51]   Loaded.
+[09:41:51]  Loading plugin: dc_cmd
+[09:41:51]   Daniel's CMD plugin v2.8
+[09:41:51]     (c) 2014 Daniel_Cortez
+[09:41:51] 	www.pro-pawn.ru
+[09:41:51]   Loaded.
+[09:41:51]  Loading plugin: ColAndreas
+[09:41:51] *********************
+[09:41:51] ** Created By:     **
+[09:41:51] ** [uL]Chris42O    **
+[09:41:51] ** [uL]Slice       **
+[09:41:51] ** [uL]Pottus      **
+[09:41:51] *********************
+[09:41:51] No collision data found.
+[09:41:51] *********************
+[09:41:51]   ColAndreas Loaded
+[09:41:51]    v1.4.0
+[09:41:51] *********************
+[09:41:51]   Loaded.
+[09:41:51]  Loading plugin: sscanf
+[09:41:51] 
+
+[09:41:51]  ===============================
+
+[09:41:51]       sscanf plugin loaded.     
+
+[09:41:51]          Version:  2.8.3        
+
+[09:41:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:41:51]  ===============================
+
+[09:41:51]   Loaded.
+[09:41:51]  Loading plugin: timerfix
+[09:41:51]   >> TimerFix v1.5 successfully loaded.
+[09:41:51]   Loaded.
+[09:41:51]  Loaded 8 plugins.
+
+[09:41:51] 
+[09:41:51] Filterscripts
+[09:41:51] ---------------
+[09:41:51]   Loaded 0 filterscripts.
+
+[09:41:51] [sv:dbg:main:AmxLoad] : net game pointer (value:022D9C98) received
+[09:41:51] [sv:dbg:network:bind] : voice server running on port 63034
+[09:41:51] [Vehicle]: Semua kendaraan dibuat
+[09:41:51] [TextDraw]: Semua kesehatan teks dibuat
+[09:41:51] [DYNAMIC PICK] Loaded
+[09:41:51] [TP]: Semua input/output dibuat
+[09:41:51] [ATM]: Semua ATM dibuat
+[09:41:51] password = ""  (string)
+[09:41:51] [Repositories]: Semua gudang dimuat
+[09:41:51] 227 Load House
+[09:41:51] 228 Load House
+[09:41:51] 230 Load House
+[09:41:51] 231 Load House
+[09:41:51] 233 Load House
+[09:41:51] 236 Load House
+[09:41:51] 245 Load House
+[09:41:51] [Houses]: Rumah dimuat: 377
+[09:41:51] [Houses]: Penyewa diunggah: 0
+[09:41:51] [Family]: Keluarga : 14
+[09:41:51] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[09:41:51] [FuelST]: Isi ulang diunggah: 4
+[09:41:51] [Business]: Bisnis dimuat: 101
+[09:41:51] [GangZones]: Gangzon dimuat: 60
+[09:41:51] [GangRepositories]: Gudang Gang dimuat
+[09:41:51] Indonesia Unity Roleplay
+[09:41:51] Number of vehicle models: 85
+[09:42:11] [connection] 192.168.0.3:61215 requests connection cookie.
+[09:42:12] [connection] incoming connection: 192.168.0.3:61215 id: 0
+[09:42:12] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[09:42:26] Mengambil bonus Jhon_Sing , sebelum bonus rekening bank 0
+[09:42:26] Mengambil bonus Jhon_Sing , setelah akun bonus bank 1500
+[09:42:31] Jhon_Sing[0] used command: /stats
+[09:42:35] Jhon_Sing[0] used command: /mm
+[09:43:07] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:43:07] [part] Jhon_Sing has left the server (0:1)
+[09:43:10]  -------------------------------------------
+[09:43:10]            SampVoice unloading...           
+[09:43:10]  -------------------------------------------
+[09:43:10] [dbg:raknet:free] : module releasing...
+[09:43:10] [dbg:raknet:free] : module released
+[09:43:10] [sv:dbg:network:free] : module releasing...
+[09:43:10] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:56:44] password = ""  (string)
+[09:56:44] lagcompmode = 1  (int)
+[09:56:44] filterscripts = ""  (string)
+[09:56:44] 
+[09:56:44] Server Plugins
+[09:56:44] --------------
+[09:56:44]  Loading plugin: sampvoice
+[09:56:44] [sv:dbg:network:init] : module initializing...
+[09:56:44] [dbg:raknet:init] : module initializing...
+[09:56:44] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[09:56:44] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[09:56:44] [dbg:raknet:init] : module initialized
+[09:56:44] [sv:dbg:network:init] : module initialized
+[09:56:44]  -------------------------------------------    
+[09:56:44]    ___                __   __    _              
+[09:56:44]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[09:56:44]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[09:56:44]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[09:56:44]                   |_|                           
+[09:56:44]  -------------------------------------------    
+[09:56:44]            SampVoice by MOR loaded              
+[09:56:44]  -------------------------------------------    
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: crashdetect
+[09:56:44]   CrashDetect plugin 4.19.4
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: streamer
+[09:56:44] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: mysql
+[09:56:44]  >> plugin.mysql: R39-6 successfully loaded.
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: dc_cmd
+[09:56:44]   Daniel's CMD plugin v2.8
+[09:56:44]     (c) 2014 Daniel_Cortez
+[09:56:44] 	www.pro-pawn.ru
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: ColAndreas
+[09:56:44] *********************
+[09:56:44] ** Created By:     **
+[09:56:44] ** [uL]Chris42O    **
+[09:56:44] ** [uL]Slice       **
+[09:56:44] ** [uL]Pottus      **
+[09:56:44] *********************
+[09:56:44] No collision data found.
+[09:56:44] *********************
+[09:56:44]   ColAndreas Loaded
+[09:56:44]    v1.4.0
+[09:56:44] *********************
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: sscanf
+[09:56:44] 
+
+[09:56:44]  ===============================
+
+[09:56:44]       sscanf plugin loaded.     
+
+[09:56:44]          Version:  2.8.3        
+
+[09:56:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:56:44]  ===============================
+
+[09:56:44]   Loaded.
+[09:56:44]  Loading plugin: timerfix
+[09:56:44]   >> TimerFix v1.5 successfully loaded.
+[09:56:44]   Loaded.
+[09:56:44]  Loaded 8 plugins.
+
+[09:56:44] 
+[09:56:44] Filterscripts
+[09:56:44] ---------------
+[09:56:44]   Loaded 0 filterscripts.
+
+[09:56:44] [sv:dbg:main:AmxLoad] : net game pointer (value:02459C98) received
+[09:56:44] [sv:dbg:network:bind] : voice server running on port 58844
+[09:56:44] [Vehicle]: Semua kendaraan dibuat
+[09:56:44] [TextDraw]: Semua kesehatan teks dibuat
+[09:56:44] [DYNAMIC PICK] Loaded
+[09:56:44] [TP]: Semua input/output dibuat
+[09:56:44] [ATM]: Semua ATM dibuat
+[09:56:44] password = ""  (string)
+[09:56:44] [Repositories]: Semua gudang dimuat
+[09:56:44] 227 Load House
+[09:56:44] 228 Load House
+[09:56:44] 230 Load House
+[09:56:44] 231 Load House
+[09:56:44] 233 Load House
+[09:56:44] 236 Load House
+[09:56:44] 245 Load House
+[09:56:44] [Houses]: Rumah dimuat: 377
+[09:56:44] [Houses]: Penyewa diunggah: 0
+[09:56:44] [Family]: Keluarga : 14
+[09:56:44] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[09:56:44] [FuelST]: Isi ulang diunggah: 4
+[09:56:44] [Business]: Bisnis dimuat: 101
+[09:56:44] [GangZones]: Gangzon dimuat: 60
+[09:56:44] [GangRepositories]: Gudang Gang dimuat
+[09:56:44] Indonesia Unity Roleplay
+[09:56:44] Number of vehicle models: 85
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:57:35] password = ""  (string)
+[09:57:35] lagcompmode = 1  (int)
+[09:57:35] filterscripts = ""  (string)
+[09:57:35] 
+[09:57:35] Server Plugins
+[09:57:35] --------------
+[09:57:35]  Loading plugin: sampvoice
+[09:57:35] [sv:dbg:network:init] : module initializing...
+[09:57:35] [dbg:raknet:init] : module initializing...
+[09:57:35] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[09:57:35] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[09:57:35] [dbg:raknet:init] : module initialized
+[09:57:35] [sv:dbg:network:init] : module initialized
+[09:57:35]  -------------------------------------------    
+[09:57:35]    ___                __   __    _              
+[09:57:35]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[09:57:35]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[09:57:35]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[09:57:35]                   |_|                           
+[09:57:35]  -------------------------------------------    
+[09:57:35]            SampVoice by MOR loaded              
+[09:57:35]  -------------------------------------------    
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: crashdetect
+[09:57:35]   CrashDetect plugin 4.19.4
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: streamer
+[09:57:35] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: mysql
+[09:57:35]  >> plugin.mysql: R39-6 successfully loaded.
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: dc_cmd
+[09:57:35]   Daniel's CMD plugin v2.8
+[09:57:35]     (c) 2014 Daniel_Cortez
+[09:57:35] 	www.pro-pawn.ru
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: ColAndreas
+[09:57:35] *********************
+[09:57:35] ** Created By:     **
+[09:57:35] ** [uL]Chris42O    **
+[09:57:35] ** [uL]Slice       **
+[09:57:35] ** [uL]Pottus      **
+[09:57:35] *********************
+[09:57:35] No collision data found.
+[09:57:35] *********************
+[09:57:35]   ColAndreas Loaded
+[09:57:35]    v1.4.0
+[09:57:35] *********************
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: sscanf
+[09:57:35] 
+
+[09:57:35]  ===============================
+
+[09:57:35]       sscanf plugin loaded.     
+
+[09:57:35]          Version:  2.8.3        
+
+[09:57:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:57:35]  ===============================
+
+[09:57:35]   Loaded.
+[09:57:35]  Loading plugin: timerfix
+[09:57:35]   >> TimerFix v1.5 successfully loaded.
+[09:57:35]   Loaded.
+[09:57:35]  Loaded 8 plugins.
+
+[09:57:35] 
+[09:57:35] Filterscripts
+[09:57:35] ---------------
+[09:57:35]   Loaded 0 filterscripts.
+
+[09:57:35] [sv:dbg:main:AmxLoad] : net game pointer (value:02379C98) received
+[09:57:35] [sv:dbg:network:bind] : voice server running on port 54340
+[09:57:35] [Vehicle]: Semua kendaraan dibuat
+[09:57:35] [TextDraw]: Semua kesehatan teks dibuat
+[09:57:35] [DYNAMIC PICK] Loaded
+[09:57:35] [TP]: Semua input/output dibuat
+[09:57:35] [ATM]: Semua ATM dibuat
+[09:57:35] password = ""  (string)
+[09:57:35] [Repositories]: Semua gudang dimuat
+[09:57:35] 227 Load House
+[09:57:35] 228 Load House
+[09:57:35] 230 Load House
+[09:57:35] 231 Load House
+[09:57:35] 233 Load House
+[09:57:35] 236 Load House
+[09:57:35] 245 Load House
+[09:57:35] [Houses]: Rumah dimuat: 377
+[09:57:35] [Houses]: Penyewa diunggah: 0
+[09:57:35] [Family]: Keluarga : 14
+[09:57:35] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[09:57:35] [FuelST]: Isi ulang diunggah: 4
+[09:57:35] [Business]: Bisnis dimuat: 101
+[09:57:35] [GangZones]: Gangzon dimuat: 60
+[09:57:35] [GangRepositories]: Gudang Gang dimuat
+[09:57:35] Indonesia Unity Roleplay
+[09:57:35] Number of vehicle models: 85
+[09:57:56] [connection] 192.168.0.3:58300 requests connection cookie.
+[09:57:57] [connection] incoming connection: 192.168.0.3:58300 id: 0
+[09:57:57] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[09:58:08] Jhon_Sing[0] used command: /mm
+[09:58:14] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:58:14] [part] Jhon_Sing has left the server (0:1)
+[10:00:10]  -------------------------------------------
+[10:00:10]            SampVoice unloading...           
+[10:00:10]  -------------------------------------------
+[10:00:10] [dbg:raknet:free] : module releasing...
+[10:00:10] [dbg:raknet:free] : module released
+[10:00:10] [sv:dbg:network:free] : module releasing...
+[10:00:10] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:00:17] password = ""  (string)
+[10:00:17] lagcompmode = 1  (int)
+[10:00:17] filterscripts = ""  (string)
+[10:00:17] 
+[10:00:17] Server Plugins
+[10:00:17] --------------
+[10:00:17]  Loading plugin: sampvoice
+[10:00:17] [sv:dbg:network:init] : module initializing...
+[10:00:17] [dbg:raknet:init] : module initializing...
+[10:00:17] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[10:00:17] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[10:00:17] [dbg:raknet:init] : module initialized
+[10:00:17] [sv:dbg:network:init] : module initialized
+[10:00:17]  -------------------------------------------    
+[10:00:17]    ___                __   __    _              
+[10:00:17]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:00:17]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:00:17]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:00:17]                   |_|                           
+[10:00:17]  -------------------------------------------    
+[10:00:17]            SampVoice by MOR loaded              
+[10:00:17]  -------------------------------------------    
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: crashdetect
+[10:00:17]   CrashDetect plugin 4.19.4
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: streamer
+[10:00:17] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: mysql
+[10:00:17]  >> plugin.mysql: R39-6 successfully loaded.
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: dc_cmd
+[10:00:17]   Daniel's CMD plugin v2.8
+[10:00:17]     (c) 2014 Daniel_Cortez
+[10:00:17] 	www.pro-pawn.ru
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: ColAndreas
+[10:00:17] *********************
+[10:00:17] ** Created By:     **
+[10:00:17] ** [uL]Chris42O    **
+[10:00:17] ** [uL]Slice       **
+[10:00:17] ** [uL]Pottus      **
+[10:00:17] *********************
+[10:00:17] No collision data found.
+[10:00:17] *********************
+[10:00:17]   ColAndreas Loaded
+[10:00:17]    v1.4.0
+[10:00:17] *********************
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: sscanf
+[10:00:17] 
+
+[10:00:17]  ===============================
+
+[10:00:17]       sscanf plugin loaded.     
+
+[10:00:17]          Version:  2.8.3        
+
+[10:00:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:00:17]  ===============================
+
+[10:00:17]   Loaded.
+[10:00:17]  Loading plugin: timerfix
+[10:00:17]   >> TimerFix v1.5 successfully loaded.
+[10:00:17]   Loaded.
+[10:00:17]  Loaded 8 plugins.
+
+[10:00:17] 
+[10:00:17] Filterscripts
+[10:00:17] ---------------
+[10:00:17]   Loaded 0 filterscripts.
+
+[10:00:17] [sv:dbg:main:AmxLoad] : net game pointer (value:006D9C98) received
+[10:00:17] [sv:dbg:network:bind] : voice server running on port 57192
+[10:00:17] [Vehicle]: Semua kendaraan dibuat
+[10:00:17] [TextDraw]: Semua kesehatan teks dibuat
+[10:00:17] [DYNAMIC PICK] Loaded
+[10:00:17] [TP]: Semua input/output dibuat
+[10:00:17] [ATM]: Semua ATM dibuat
+[10:00:17] password = ""  (string)
+[10:00:17] [Repositories]: Semua gudang dimuat
+[10:00:17] 227 Load House
+[10:00:17] 228 Load House
+[10:00:17] 230 Load House
+[10:00:17] 231 Load House
+[10:00:17] 233 Load House
+[10:00:17] 236 Load House
+[10:00:17] 245 Load House
+[10:00:17] [Houses]: Rumah dimuat: 377
+[10:00:17] [Houses]: Penyewa diunggah: 0
+[10:00:17] [Family]: Keluarga : 14
+[10:00:17] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[10:00:17] [FuelST]: Isi ulang diunggah: 4
+[10:00:17] [Business]: Bisnis dimuat: 101
+[10:00:17] [GangZones]: Gangzon dimuat: 60
+[10:00:17] [GangRepositories]: Gudang Gang dimuat
+[10:00:17] Indonesia Unity Roleplay
+[10:00:17] Number of vehicle models: 85
+[10:00:17] Papan murni
+[10:00:37] [connection] 192.168.0.3:61557 requests connection cookie.
+[10:00:38] [connection] incoming connection: 192.168.0.3:61557 id: 0
+[10:00:38] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[10:00:50] Jhon_Sing[0] used command: /mm
+[10:01:01] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:01:01] [part] Jhon_Sing has left the server (0:1)
+[10:01:13]  -------------------------------------------
+[10:01:13]            SampVoice unloading...           
+[10:01:13]  -------------------------------------------
+[10:01:14] [dbg:raknet:free] : module releasing...
+[10:01:14] [dbg:raknet:free] : module released
+[10:01:14] [sv:dbg:network:free] : module releasing...
+[10:01:14] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:01:19] password = ""  (string)
+[10:01:19] lagcompmode = 1  (int)
+[10:01:19] filterscripts = ""  (string)
+[10:01:19] 
+[10:01:19] Server Plugins
+[10:01:19] --------------
+[10:01:19]  Loading plugin: sampvoice
+[10:01:19] [sv:dbg:network:init] : module initializing...
+[10:01:19] [dbg:raknet:init] : module initializing...
+[10:01:19] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[10:01:19] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[10:01:19] [dbg:raknet:init] : module initialized
+[10:01:19] [sv:dbg:network:init] : module initialized
+[10:01:19]  -------------------------------------------    
+[10:01:19]    ___                __   __    _              
+[10:01:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:01:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:01:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:01:19]                   |_|                           
+[10:01:19]  -------------------------------------------    
+[10:01:19]            SampVoice by MOR loaded              
+[10:01:19]  -------------------------------------------    
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: crashdetect
+[10:01:19]   CrashDetect plugin 4.19.4
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: streamer
+[10:01:19] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: mysql
+[10:01:19]  >> plugin.mysql: R39-6 successfully loaded.
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: dc_cmd
+[10:01:19]   Daniel's CMD plugin v2.8
+[10:01:19]     (c) 2014 Daniel_Cortez
+[10:01:19] 	www.pro-pawn.ru
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: ColAndreas
+[10:01:19] *********************
+[10:01:19] ** Created By:     **
+[10:01:19] ** [uL]Chris42O    **
+[10:01:19] ** [uL]Slice       **
+[10:01:19] ** [uL]Pottus      **
+[10:01:19] *********************
+[10:01:19] No collision data found.
+[10:01:19] *********************
+[10:01:19]   ColAndreas Loaded
+[10:01:19]    v1.4.0
+[10:01:19] *********************
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: sscanf
+[10:01:19] 
+
+[10:01:19]  ===============================
+
+[10:01:19]       sscanf plugin loaded.     
+
+[10:01:19]          Version:  2.8.3        
+
+[10:01:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:01:19]  ===============================
+
+[10:01:19]   Loaded.
+[10:01:19]  Loading plugin: timerfix
+[10:01:19]   >> TimerFix v1.5 successfully loaded.
+[10:01:19]   Loaded.
+[10:01:19]  Loaded 8 plugins.
+
+[10:01:19] 
+[10:01:19] Filterscripts
+[10:01:19] ---------------
+[10:01:19]   Loaded 0 filterscripts.
+
+[10:01:19] [sv:dbg:main:AmxLoad] : net game pointer (value:02499C98) received
+[10:01:19] [sv:dbg:network:bind] : voice server running on port 49271
+[10:01:19] [Vehicle]: Semua kendaraan dibuat
+[10:01:19] [TextDraw]: Semua kesehatan teks dibuat
+[10:01:19] [DYNAMIC PICK] Loaded
+[10:01:19] [TP]: Semua input/output dibuat
+[10:01:19] [ATM]: Semua ATM dibuat
+[10:01:19] password = ""  (string)
+[10:01:19] [Repositories]: Semua gudang dimuat
+[10:01:19] 227 Load House
+[10:01:19] 228 Load House
+[10:01:19] 230 Load House
+[10:01:19] 231 Load House
+[10:01:19] 233 Load House
+[10:01:19] 236 Load House
+[10:01:19] 245 Load House
+[10:01:19] [Houses]: Rumah dimuat: 377
+[10:01:19] [Houses]: Penyewa diunggah: 0
+[10:01:19] [Family]: Keluarga : 14
+[10:01:19] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[10:01:19] [FuelST]: Isi ulang diunggah: 4
+[10:01:19] [Business]: Bisnis dimuat: 101
+[10:01:19] [GangZones]: Gangzon dimuat: 60
+[10:01:19] [GangRepositories]: Gudang Gang dimuat
+[10:01:19] Indonesia Unity Roleplay
+[10:01:19] Number of vehicle models: 85
+[10:01:40] [connection] 192.168.0.3:49272 requests connection cookie.
+[10:01:41] [connection] incoming connection: 192.168.0.3:49272 id: 0
+[10:01:41] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[10:01:52] Jhon_Sing[0] used command: /mm
+[10:02:01] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:02:01] [part] Jhon_Sing has left the server (0:1)
+[10:02:10]  -------------------------------------------
+[10:02:10]            SampVoice unloading...           
+[10:02:10]  -------------------------------------------
+[10:02:10] [dbg:raknet:free] : module releasing...
+[10:02:10] [dbg:raknet:free] : module released
+[10:02:10] [sv:dbg:network:free] : module releasing...
+[10:02:10] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:02:16] password = ""  (string)
+[10:02:16] lagcompmode = 1  (int)
+[10:02:16] filterscripts = ""  (string)
+[10:02:16] 
+[10:02:16] Server Plugins
+[10:02:16] --------------
+[10:02:16]  Loading plugin: sampvoice
+[10:02:16] [sv:dbg:network:init] : module initializing...
+[10:02:16] [dbg:raknet:init] : module initializing...
+[10:02:16] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[10:02:16] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[10:02:16] [dbg:raknet:init] : module initialized
+[10:02:16] [sv:dbg:network:init] : module initialized
+[10:02:16]  -------------------------------------------    
+[10:02:16]    ___                __   __    _              
+[10:02:16]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:02:16]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:02:16]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:02:16]                   |_|                           
+[10:02:16]  -------------------------------------------    
+[10:02:16]            SampVoice by MOR loaded              
+[10:02:16]  -------------------------------------------    
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: crashdetect
+[10:02:16]   CrashDetect plugin 4.19.4
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: streamer
+[10:02:16] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: mysql
+[10:02:16]  >> plugin.mysql: R39-6 successfully loaded.
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: dc_cmd
+[10:02:16]   Daniel's CMD plugin v2.8
+[10:02:16]     (c) 2014 Daniel_Cortez
+[10:02:16] 	www.pro-pawn.ru
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: ColAndreas
+[10:02:16] *********************
+[10:02:16] ** Created By:     **
+[10:02:16] ** [uL]Chris42O    **
+[10:02:16] ** [uL]Slice       **
+[10:02:16] ** [uL]Pottus      **
+[10:02:16] *********************
+[10:02:16] No collision data found.
+[10:02:16] *********************
+[10:02:16]   ColAndreas Loaded
+[10:02:16]    v1.4.0
+[10:02:16] *********************
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: sscanf
+[10:02:16] 
+
+[10:02:16]  ===============================
+
+[10:02:16]       sscanf plugin loaded.     
+
+[10:02:16]          Version:  2.8.3        
+
+[10:02:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:02:16]  ===============================
+
+[10:02:16]   Loaded.
+[10:02:16]  Loading plugin: timerfix
+[10:02:16]   >> TimerFix v1.5 successfully loaded.
+[10:02:16]   Loaded.
+[10:02:16]  Loaded 8 plugins.
+
+[10:02:16] 
+[10:02:16] Filterscripts
+[10:02:16] ---------------
+[10:02:16]   Loaded 0 filterscripts.
+
+[10:02:16] [sv:dbg:main:AmxLoad] : net game pointer (value:02239C98) received
+[10:02:16] [sv:dbg:network:bind] : voice server running on port 49497
+[10:02:16] [Vehicle]: Semua kendaraan dibuat
+[10:02:16] [TextDraw]: Semua kesehatan teks dibuat
+[10:02:16] [DYNAMIC PICK] Loaded
+[10:02:16] [TP]: Semua input/output dibuat
+[10:02:16] [ATM]: Semua ATM dibuat
+[10:02:16] password = ""  (string)
+[10:02:16] [Repositories]: Semua gudang dimuat
+[10:02:16] 227 Load House
+[10:02:16] 228 Load House
+[10:02:16] 230 Load House
+[10:02:16] 231 Load House
+[10:02:16] 233 Load House
+[10:02:16] 236 Load House
+[10:02:16] 245 Load House
+[10:02:16] [Houses]: Rumah dimuat: 377
+[10:02:16] [Houses]: Penyewa diunggah: 0
+[10:02:16] [Family]: Keluarga : 14
+[10:02:16] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[10:02:16] [FuelST]: Isi ulang diunggah: 4
+[10:02:16] [Business]: Bisnis dimuat: 101
+[10:02:16] [GangZones]: Gangzon dimuat: 60
+[10:02:16] [GangRepositories]: Gudang Gang dimuat
+[10:02:16] Indonesia Unity Roleplay
+[10:02:16] Number of vehicle models: 85
+[10:02:37] [connection] 192.168.0.3:63259 requests connection cookie.
+[10:02:38] [connection] incoming connection: 192.168.0.3:63259 id: 0
+[10:02:38] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[10:02:48] Jhon_Sing[0] used command: /mm
+[10:02:54] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:02:54] [part] Jhon_Sing has left the server (0:1)
+[10:02:58]  -------------------------------------------
+[10:02:58]            SampVoice unloading...           
+[10:02:58]  -------------------------------------------
+[10:02:59] [dbg:raknet:free] : module releasing...
+[10:02:59] [dbg:raknet:free] : module released
+[10:02:59] [sv:dbg:network:free] : module releasing...
+[10:02:59] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:03:10] password = ""  (string)
+[10:03:10] lagcompmode = 1  (int)
+[10:03:10] filterscripts = ""  (string)
+[10:03:10] 
+[10:03:10] Server Plugins
+[10:03:10] --------------
+[10:03:10]  Loading plugin: sampvoice
+[10:03:10] [sv:dbg:network:init] : module initializing...
+[10:03:10] [dbg:raknet:init] : module initializing...
+[10:03:10] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[10:03:10] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[10:03:10] [dbg:raknet:init] : module initialized
+[10:03:10] [sv:dbg:network:init] : module initialized
+[10:03:10]  -------------------------------------------    
+[10:03:10]    ___                __   __    _              
+[10:03:10]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:03:10]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:03:10]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:03:10]                   |_|                           
+[10:03:10]  -------------------------------------------    
+[10:03:10]            SampVoice by MOR loaded              
+[10:03:10]  -------------------------------------------    
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: crashdetect
+[10:03:10]   CrashDetect plugin 4.19.4
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: streamer
+[10:03:10] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: mysql
+[10:03:10]  >> plugin.mysql: R39-6 successfully loaded.
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: dc_cmd
+[10:03:10]   Daniel's CMD plugin v2.8
+[10:03:10]     (c) 2014 Daniel_Cortez
+[10:03:10] 	www.pro-pawn.ru
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: ColAndreas
+[10:03:10] *********************
+[10:03:10] ** Created By:     **
+[10:03:10] ** [uL]Chris42O    **
+[10:03:10] ** [uL]Slice       **
+[10:03:10] ** [uL]Pottus      **
+[10:03:10] *********************
+[10:03:10] No collision data found.
+[10:03:10] *********************
+[10:03:10]   ColAndreas Loaded
+[10:03:10]    v1.4.0
+[10:03:10] *********************
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: sscanf
+[10:03:10] 
+
+[10:03:10]  ===============================
+
+[10:03:10]       sscanf plugin loaded.     
+
+[10:03:10]          Version:  2.8.3        
+
+[10:03:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:03:10]  ===============================
+
+[10:03:10]   Loaded.
+[10:03:10]  Loading plugin: timerfix
+[10:03:10]   >> TimerFix v1.5 successfully loaded.
+[10:03:10]   Loaded.
+[10:03:10]  Loaded 8 plugins.
+
+[10:03:10] 
+[10:03:10] Filterscripts
+[10:03:10] ---------------
+[10:03:10]   Loaded 0 filterscripts.
+
+[10:03:10] [sv:dbg:main:AmxLoad] : net game pointer (value:02409C98) received
+[10:03:10] [sv:dbg:network:bind] : voice server running on port 57543
+[10:03:10] [Vehicle]: Semua kendaraan dibuat
+[10:03:10] [TextDraw]: Semua kesehatan teks dibuat
+[10:03:10] [DYNAMIC PICK] Loaded
+[10:03:10] [TP]: Semua input/output dibuat
+[10:03:10] [ATM]: Semua ATM dibuat
+[10:03:10] password = ""  (string)
+[10:03:10] [Repositories]: Semua gudang dimuat
+[10:03:10] 227 Load House
+[10:03:10] 228 Load House
+[10:03:10] 230 Load House
+[10:03:10] 231 Load House
+[10:03:10] 233 Load House
+[10:03:10] 236 Load House
+[10:03:10] 245 Load House
+[10:03:10] [Houses]: Rumah dimuat: 377
+[10:03:10] [Houses]: Penyewa diunggah: 0
+[10:03:10] [Family]: Keluarga : 14
+[10:03:10] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[10:03:10] [FuelST]: Isi ulang diunggah: 4
+[10:03:10] [Business]: Bisnis dimuat: 101
+[10:03:10] [GangZones]: Gangzon dimuat: 60
+[10:03:10] [GangRepositories]: Gudang Gang dimuat
+[10:03:10] Indonesia Unity Roleplay
+[10:03:10] Number of vehicle models: 85
+[10:03:30] [connection] 192.168.0.3:49763 requests connection cookie.
+[10:03:31] [connection] incoming connection: 192.168.0.3:49763 id: 0
+[10:03:32] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[10:03:41] Jhon_Sing[0] used command: /mm
+[10:03:44] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:03:44] [part] Jhon_Sing has left the server (0:1)
+[10:03:47]  -------------------------------------------
+[10:03:47]            SampVoice unloading...           
+[10:03:47]  -------------------------------------------
+[10:03:48] [dbg:raknet:free] : module releasing...
+[10:03:48] [dbg:raknet:free] : module released
+[10:03:48] [sv:dbg:network:free] : module releasing...
+[10:03:48] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:04:00] password = ""  (string)
+[10:04:00] lagcompmode = 1  (int)
+[10:04:00] filterscripts = ""  (string)
+[10:04:00] 
+[10:04:00] Server Plugins
+[10:04:00] --------------
+[10:04:00]  Loading plugin: sampvoice
+[10:04:00] [sv:dbg:network:init] : module initializing...
+[10:04:00] [dbg:raknet:init] : module initializing...
+[10:04:00] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[10:04:00] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[10:04:00] [dbg:raknet:init] : module initialized
+[10:04:00] [sv:dbg:network:init] : module initialized
+[10:04:00]  -------------------------------------------    
+[10:04:00]    ___                __   __    _              
+[10:04:00]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:04:00]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:04:00]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:04:00]                   |_|                           
+[10:04:00]  -------------------------------------------    
+[10:04:00]            SampVoice by MOR loaded              
+[10:04:00]  -------------------------------------------    
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: crashdetect
+[10:04:00]   CrashDetect plugin 4.19.4
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: streamer
+[10:04:00] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: mysql
+[10:04:00]  >> plugin.mysql: R39-6 successfully loaded.
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: dc_cmd
+[10:04:00]   Daniel's CMD plugin v2.8
+[10:04:00]     (c) 2014 Daniel_Cortez
+[10:04:00] 	www.pro-pawn.ru
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: ColAndreas
+[10:04:00] *********************
+[10:04:00] ** Created By:     **
+[10:04:00] ** [uL]Chris42O    **
+[10:04:00] ** [uL]Slice       **
+[10:04:00] ** [uL]Pottus      **
+[10:04:00] *********************
+[10:04:00] No collision data found.
+[10:04:00] *********************
+[10:04:00]   ColAndreas Loaded
+[10:04:00]    v1.4.0
+[10:04:00] *********************
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: sscanf
+[10:04:00] 
+
+[10:04:00]  ===============================
+
+[10:04:00]       sscanf plugin loaded.     
+
+[10:04:00]          Version:  2.8.3        
+
+[10:04:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:04:00]  ===============================
+
+[10:04:00]   Loaded.
+[10:04:00]  Loading plugin: timerfix
+[10:04:00]   >> TimerFix v1.5 successfully loaded.
+[10:04:00]   Loaded.
+[10:04:00]  Loaded 8 plugins.
+
+[10:04:00] 
+[10:04:00] Filterscripts
+[10:04:00] ---------------
+[10:04:00]   Loaded 0 filterscripts.
+
+[10:04:00] [sv:dbg:main:AmxLoad] : net game pointer (value:00779C98) received
+[10:04:00] [sv:dbg:network:bind] : voice server running on port 61227
+[10:04:00] [Vehicle]: Semua kendaraan dibuat
+[10:04:00] [TextDraw]: Semua kesehatan teks dibuat
+[10:04:00] [DYNAMIC PICK] Loaded
+[10:04:00] [TP]: Semua input/output dibuat
+[10:04:00] [ATM]: Semua ATM dibuat
+[10:04:00] password = ""  (string)
+[10:04:00] [Repositories]: Semua gudang dimuat
+[10:04:00] 227 Load House
+[10:04:00] 228 Load House
+[10:04:00] 230 Load House
+[10:04:00] 231 Load House
+[10:04:00] 233 Load House
+[10:04:00] 236 Load House
+[10:04:00] 245 Load House
+[10:04:00] [Houses]: Rumah dimuat: 377
+[10:04:00] [Houses]: Penyewa diunggah: 0
+[10:04:00] [Family]: Keluarga : 14
+[10:04:00] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[10:04:00] [FuelST]: Isi ulang diunggah: 4
+[10:04:00] [Business]: Bisnis dimuat: 101
+[10:04:00] [GangZones]: Gangzon dimuat: 60
+[10:04:00] [GangRepositories]: Gudang Gang dimuat
+[10:04:00] Indonesia Unity Roleplay
+[10:04:00] Number of vehicle models: 85
+[10:04:20] [connection] 192.168.0.3:58820 requests connection cookie.
+[10:04:21] [connection] incoming connection: 192.168.0.3:58820 id: 0
+[10:04:21] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[10:04:31] Jhon_Sing[0] used command: /mm
+[10:04:39] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:04:39] [part] Jhon_Sing has left the server (0:1)
+[10:04:42]  -------------------------------------------
+[10:04:42]            SampVoice unloading...           
+[10:04:42]  -------------------------------------------
+[10:04:42] [dbg:raknet:free] : module releasing...
+[10:04:42] [dbg:raknet:free] : module released
+[10:04:42] [sv:dbg:network:free] : module releasing...
+[10:04:42] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:42] password = ""  (string)
+[10:33:42] lagcompmode = 1  (int)
+[10:33:42] filterscripts = ""  (string)
+[10:33:42] 
+[10:33:42] Server Plugins
+[10:33:42] --------------
+[10:33:42]  Loading plugin: sampvoice
+[10:33:42] [sv:dbg:network:init] : module initializing...
+[10:33:42] [dbg:raknet:init] : module initializing...
+[10:33:42] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[10:33:42] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[10:33:42] [dbg:raknet:init] : module initialized
+[10:33:42] [sv:dbg:network:init] : module initialized
+[10:33:42]  -------------------------------------------    
+[10:33:42]    ___                __   __    _              
+[10:33:42]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:33:42]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:33:42]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:33:42]                   |_|                           
+[10:33:42]  -------------------------------------------    
+[10:33:42]            SampVoice by MOR loaded              
+[10:33:42]  -------------------------------------------    
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: crashdetect
+[10:33:42]   CrashDetect plugin 4.19.4
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: streamer
+[10:33:42] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: mysql
+[10:33:42]  >> plugin.mysql: R39-6 successfully loaded.
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: dc_cmd
+[10:33:42]   Daniel's CMD plugin v2.8
+[10:33:42]     (c) 2014 Daniel_Cortez
+[10:33:42] 	www.pro-pawn.ru
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: ColAndreas
+[10:33:42] *********************
+[10:33:42] ** Created By:     **
+[10:33:42] ** [uL]Chris42O    **
+[10:33:42] ** [uL]Slice       **
+[10:33:42] ** [uL]Pottus      **
+[10:33:42] *********************
+[10:33:42] No collision data found.
+[10:33:42] *********************
+[10:33:42]   ColAndreas Loaded
+[10:33:42]    v1.4.0
+[10:33:42] *********************
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: sscanf
+[10:33:42] 
+
+[10:33:42]  ===============================
+
+[10:33:42]       sscanf plugin loaded.     
+
+[10:33:42]          Version:  2.8.3        
+
+[10:33:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:33:42]  ===============================
+
+[10:33:42]   Loaded.
+[10:33:42]  Loading plugin: timerfix
+[10:33:42]   >> TimerFix v1.5 successfully loaded.
+[10:33:42]   Loaded.
+[10:33:42]  Loaded 8 plugins.
+
+[10:33:42] 
+[10:33:42] Filterscripts
+[10:33:42] ---------------
+[10:33:42]   Loaded 0 filterscripts.
+
+[10:33:42] [sv:dbg:main:AmxLoad] : net game pointer (value:02299C98) received
+[10:33:42] [sv:dbg:network:bind] : voice server running on port 61932
+[10:33:42] [Vehicle]: Semua kendaraan dibuat
+[10:33:42] [TextDraw]: Semua kesehatan teks dibuat
+[10:33:42] [DYNAMIC PICK] Loaded
+[10:33:42] [TP]: Semua input/output dibuat
+[10:33:42] [ATM]: Semua ATM dibuat
+[10:33:42] password = ""  (string)
+[10:33:42] [Repositories]: Semua gudang dimuat
+[10:33:42] 227 Load House
+[10:33:42] 228 Load House
+[10:33:42] 230 Load House
+[10:33:42] 231 Load House
+[10:33:42] 233 Load House
+[10:33:42] 236 Load House
+[10:33:42] 245 Load House
+[10:33:42] [Houses]: Rumah dimuat: 377
+[10:33:42] [Houses]: Penyewa diunggah: 0
+[10:33:42] [Family]: Keluarga : 14
+[10:33:42] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[10:33:42] [FuelST]: Isi ulang diunggah: 4
+[10:33:42] [Business]: Bisnis dimuat: 101
+[10:33:42] [GangZones]: Gangzon dimuat: 60
+[10:33:42] [GangRepositories]: Gudang Gang dimuat
+[10:33:42] Indonesia Unity Roleplay
+[10:33:42] Number of vehicle models: 85
+[10:34:04] [connection] 192.168.0.3:56154 requests connection cookie.
+[10:34:05] [connection] incoming connection: 192.168.0.3:56154 id: 0
+[10:34:05] [join] Jhon_Sing has joined the server (0:192.168.0.3)
+[10:34:21] Mengambil bonus Jhon_Sing , sebelum bonus rekening bank 0
+[10:34:21] Mengambil bonus Jhon_Sing , setelah akun bonus bank 1500
+[10:34:26] Jhon_Sing[0] used command: /mm
+[10:34:48] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:34:48] [part] Jhon_Sing has left the server (0:1)
+[10:34:52]  -------------------------------------------
+[10:34:52]            SampVoice unloading...           
+[10:34:52]  -------------------------------------------
+[10:34:52] [dbg:raknet:free] : module releasing...
+[10:34:52] [dbg:raknet:free] : module released
+[10:34:52] [sv:dbg:network:free] : module releasing...
+[10:34:52] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:36:42] password = ""  (string)
+[13:36:42] lagcompmode = 1  (int)
+[13:36:42] filterscripts = ""  (string)
+[13:36:42] 
+[13:36:42] Server Plugins
+[13:36:42] --------------
+[13:36:42]  Loading plugin: sampvoice
+[13:36:42] [sv:dbg:network:init] : module initializing...
+[13:36:42] [dbg:raknet:init] : module initializing...
+[13:36:42] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[13:36:42] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[13:36:42] [dbg:raknet:init] : module initialized
+[13:36:42] [sv:dbg:network:init] : module initialized
+[13:36:42]  -------------------------------------------    
+[13:36:42]    ___                __   __    _              
+[13:36:42]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[13:36:42]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[13:36:42]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[13:36:42]                   |_|                           
+[13:36:42]  -------------------------------------------    
+[13:36:42]            SampVoice by MOR loaded              
+[13:36:42]  -------------------------------------------    
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: crashdetect
+[13:36:42]   CrashDetect plugin 4.19.4
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: streamer
+[13:36:42] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: mysql
+[13:36:42]  >> plugin.mysql: R39-6 successfully loaded.
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: dc_cmd
+[13:36:42]   Daniel's CMD plugin v2.8
+[13:36:42]     (c) 2014 Daniel_Cortez
+[13:36:42] 	www.pro-pawn.ru
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: ColAndreas
+[13:36:42] *********************
+[13:36:42] ** Created By:     **
+[13:36:42] ** [uL]Chris42O    **
+[13:36:42] ** [uL]Slice       **
+[13:36:42] ** [uL]Pottus      **
+[13:36:42] *********************
+[13:36:42] No collision data found.
+[13:36:42] *********************
+[13:36:42]   ColAndreas Loaded
+[13:36:42]    v1.4.0
+[13:36:42] *********************
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: sscanf
+[13:36:42] 
+
+[13:36:42]  ===============================
+
+[13:36:42]       sscanf plugin loaded.     
+
+[13:36:42]          Version:  2.8.3        
+
+[13:36:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:36:42]  ===============================
+
+[13:36:42]   Loaded.
+[13:36:42]  Loading plugin: timerfix
+[13:36:42]   >> TimerFix v1.5 successfully loaded.
+[13:36:42]   Loaded.
+[13:36:42]  Loaded 8 plugins.
+
+[13:36:42] 
+[13:36:42] Filterscripts
+[13:36:42] ---------------
+[13:36:42]   Loaded 0 filterscripts.
+
+[13:36:43] [sv:dbg:main:AmxLoad] : net game pointer (value:023F9CB0) received
+[13:36:43] [sv:dbg:network:bind] : voice server running on port 55256
+[13:36:43] [Vehicle]: Semua kendaraan dibuat
+[13:36:43] [TextDraw]: Semua kesehatan teks dibuat
+[13:36:43] [DYNAMIC PICK] Loaded
+[13:36:43] [TP]: Semua input/output dibuat
+[13:36:43] [ATM]: Semua ATM dibuat
+[13:36:43] password = ""  (string)
+[13:36:43] [Repositories]: Semua gudang dimuat
+[13:36:43] 227 Load House
+[13:36:43] 228 Load House
+[13:36:43] 230 Load House
+[13:36:43] 231 Load House
+[13:36:43] 233 Load House
+[13:36:43] 236 Load House
+[13:36:43] 245 Load House
+[13:36:43] [Houses]: Rumah dimuat: 377
+[13:36:43] [Houses]: Penyewa diunggah: 0
+[13:36:43] [Family]: Keluarga : 14
+[13:36:43] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[13:36:43] [FuelST]: Isi ulang diunggah: 4
+[13:36:43] [Business]: Bisnis dimuat: 101
+[13:36:43] [GangZones]: Gangzon dimuat: 60
+[13:36:43] [GangRepositories]: Gudang Gang dimuat
+[13:36:43] Indonesia Unity Roleplay
+[13:36:43] Number of vehicle models: 85
+[13:37:35] [connection] 192.168.0.2:52097 requests connection cookie.
+[13:37:36] [connection] incoming connection: 192.168.0.2:52097 id: 0
+[13:37:36] [join] Jhon_Sing has joined the server (0:192.168.0.2)
+[13:37:40] [sv:dbg:network:connect] : disconnecting player (0) ...
+[13:37:40] [part] Jhon_Sing has left the server (0:2)
+[13:41:27]  -------------------------------------------
+[13:41:27]            SampVoice unloading...           
+[13:41:27]  -------------------------------------------
+[13:41:27] [dbg:raknet:free] : module releasing...
+[13:41:27] [dbg:raknet:free] : module released
+[13:41:27] [sv:dbg:network:free] : module releasing...
+[13:41:27] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:45:31] password = ""  (string)
+[13:45:31] lagcompmode = 1  (int)
+[13:45:31] filterscripts = ""  (string)
+[13:45:31] 
+[13:45:31] Server Plugins
+[13:45:31] --------------
+[13:45:31]  Loading plugin: sampvoice
+[13:45:31] [sv:dbg:network:init] : module initializing...
+[13:45:31] [dbg:raknet:init] : module initializing...
+[13:45:31] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[13:45:31] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[13:45:31] [dbg:raknet:init] : module initialized
+[13:45:31] [sv:dbg:network:init] : module initialized
+[13:45:31]  -------------------------------------------    
+[13:45:31]    ___                __   __    _              
+[13:45:31]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[13:45:31]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[13:45:31]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[13:45:31]                   |_|                           
+[13:45:31]  -------------------------------------------    
+[13:45:31]            SampVoice by MOR loaded              
+[13:45:31]  -------------------------------------------    
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: crashdetect
+[13:45:31]   CrashDetect plugin 4.19.4
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: streamer
+[13:45:31] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: mysql
+[13:45:31]  >> plugin.mysql: R39-6 successfully loaded.
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: dc_cmd
+[13:45:31]   Daniel's CMD plugin v2.8
+[13:45:31]     (c) 2014 Daniel_Cortez
+[13:45:31] 	www.pro-pawn.ru
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: ColAndreas
+[13:45:31] *********************
+[13:45:31] ** Created By:     **
+[13:45:31] ** [uL]Chris42O    **
+[13:45:31] ** [uL]Slice       **
+[13:45:31] ** [uL]Pottus      **
+[13:45:31] *********************
+[13:45:31] No collision data found.
+[13:45:31] *********************
+[13:45:31]   ColAndreas Loaded
+[13:45:31]    v1.4.0
+[13:45:31] *********************
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: sscanf
+[13:45:31] 
+
+[13:45:31]  ===============================
+
+[13:45:31]       sscanf plugin loaded.     
+
+[13:45:31]          Version:  2.8.3        
+
+[13:45:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:45:31]  ===============================
+
+[13:45:31]   Loaded.
+[13:45:31]  Loading plugin: timerfix
+[13:45:31]   >> TimerFix v1.5 successfully loaded.
+[13:45:31]   Loaded.
+[13:45:31]  Loaded 8 plugins.
+
+[13:45:31] 
+[13:45:31] Filterscripts
+[13:45:31] ---------------
+[13:45:31]   Loaded 0 filterscripts.
+
+[13:45:31] [sv:dbg:main:AmxLoad] : net game pointer (value:023F9CB0) received
+[13:45:31] [sv:dbg:network:bind] : voice server running on port 62577
+[13:45:31] [Vehicle]: Semua kendaraan dibuat
+[13:45:31] [TextDraw]: Semua kesehatan teks dibuat
+[13:45:31] [DYNAMIC PICK] Loaded
+[13:45:31] [TP]: Semua input/output dibuat
+[13:45:31] [ATM]: Semua ATM dibuat
+[13:45:31] password = ""  (string)
+[13:45:31] [Repositories]: Semua gudang dimuat
+[13:45:31] 227 Load House
+[13:45:31] 228 Load House
+[13:45:31] 230 Load House
+[13:45:31] 231 Load House
+[13:45:31] 233 Load House
+[13:45:31] 236 Load House
+[13:45:31] 245 Load House
+[13:45:31] [Houses]: Rumah dimuat: 377
+[13:45:31] [Houses]: Penyewa diunggah: 0
+[13:45:31] [Family]: Keluarga : 14
+[13:45:31] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[13:45:31] [FuelST]: Isi ulang diunggah: 4
+[13:45:31] [Business]: Bisnis dimuat: 101
+[13:45:31] [GangZones]: Gangzon dimuat: 60
+[13:45:31] [GangRepositories]: Gudang Gang dimuat
+[13:45:31] Indonesia Unity Roleplay
+[13:45:31] Number of vehicle models: 85
+[13:45:55] [connection] 192.168.0.2:56142 requests connection cookie.
+[13:45:56] [connection] incoming connection: 192.168.0.2:56142 id: 0
+[13:45:56] [join] Jhon_Sing has joined the server (0:192.168.0.2)
+[13:46:31] Jhon_Sing[0] used command: /mm
+[13:46:48] Jhon_Sing[0] used command: /admin
+[13:46:51] Jhon_Sing[0] used command: /veh
+[13:46:53] [chat] [Jhon_Sing]: uy
+[13:46:56] Jhon_Sing[0] used command: /setadm
+[13:47:00] Jhon_Sing[0] used command: /help
+[13:47:03] Jhon_Sing[0] used command: /car
+[13:47:15] [sv:dbg:network:connect] : disconnecting player (0) ...
+[13:47:15] [part] Jhon_Sing has left the server (0:1)
+[13:47:19]  -------------------------------------------
+[13:47:20]            SampVoice unloading...           
+[13:47:20]  -------------------------------------------
+[13:47:20] [dbg:raknet:free] : module releasing...
+[13:47:20] [dbg:raknet:free] : module released
+[13:47:20] [sv:dbg:network:free] : module releasing...
+[13:47:20] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:55:04] password = ""  (string)
+[13:55:04] lagcompmode = 1  (int)
+[13:55:04] filterscripts = ""  (string)
+[13:55:04] 
+[13:55:04] Server Plugins
+[13:55:04] --------------
+[13:55:04]  Loading plugin: sampvoice
+[13:55:04] [sv:dbg:network:init] : module initializing...
+[13:55:04] [dbg:raknet:init] : module initializing...
+[13:55:04] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[13:55:04] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[13:55:04] [dbg:raknet:init] : module initialized
+[13:55:04] [sv:dbg:network:init] : module initialized
+[13:55:04]  -------------------------------------------    
+[13:55:04]    ___                __   __    _              
+[13:55:04]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[13:55:04]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[13:55:04]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[13:55:04]                   |_|                           
+[13:55:04]  -------------------------------------------    
+[13:55:04]            SampVoice by MOR loaded              
+[13:55:04]  -------------------------------------------    
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: crashdetect
+[13:55:04]   CrashDetect plugin 4.19.4
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: streamer
+[13:55:04] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: mysql
+[13:55:04]  >> plugin.mysql: R39-6 successfully loaded.
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: dc_cmd
+[13:55:04]   Daniel's CMD plugin v2.8
+[13:55:04]     (c) 2014 Daniel_Cortez
+[13:55:04] 	www.pro-pawn.ru
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: ColAndreas
+[13:55:04] *********************
+[13:55:04] ** Created By:     **
+[13:55:04] ** [uL]Chris42O    **
+[13:55:04] ** [uL]Slice       **
+[13:55:04] ** [uL]Pottus      **
+[13:55:04] *********************
+[13:55:04] No collision data found.
+[13:55:04] *********************
+[13:55:04]   ColAndreas Loaded
+[13:55:04]    v1.4.0
+[13:55:04] *********************
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: sscanf
+[13:55:04] 
+
+[13:55:04]  ===============================
+
+[13:55:04]       sscanf plugin loaded.     
+
+[13:55:04]          Version:  2.8.3        
+
+[13:55:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:55:04]  ===============================
+
+[13:55:04]   Loaded.
+[13:55:04]  Loading plugin: timerfix
+[13:55:04]   >> TimerFix v1.5 successfully loaded.
+[13:55:04]   Loaded.
+[13:55:04]  Loaded 8 plugins.
+
+[13:55:04] 
+[13:55:04] Filterscripts
+[13:55:04] ---------------
+[13:55:04]   Loaded 0 filterscripts.
+
+[13:55:04] [sv:dbg:main:AmxLoad] : net game pointer (value:024E9CB0) received
+[13:55:04] [sv:dbg:network:bind] : voice server running on port 61749
+[13:55:04] [Vehicle]: Semua kendaraan dibuat
+[13:55:04] [TextDraw]: Semua kesehatan teks dibuat
+[13:55:04] [DYNAMIC PICK] Loaded
+[13:55:04] [TP]: Semua input/output dibuat
+[13:55:04] [ATM]: Semua ATM dibuat
+[13:55:04] password = ""  (string)
+[13:55:04] [Repositories]: Semua gudang dimuat
+[13:55:04] 227 Load House
+[13:55:04] 228 Load House
+[13:55:04] 230 Load House
+[13:55:04] 231 Load House
+[13:55:04] 233 Load House
+[13:55:04] 236 Load House
+[13:55:04] 245 Load House
+[13:55:04] [Houses]: Rumah dimuat: 377
+[13:55:04] [Houses]: Penyewa diunggah: 0
+[13:55:04] [Family]: Keluarga : 14
+[13:55:04] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[13:55:04] [FuelST]: Isi ulang diunggah: 4
+[13:55:04] [Business]: Bisnis dimuat: 101
+[13:55:04] [GangZones]: Gangzon dimuat: 60
+[13:55:04] [GangRepositories]: Gudang Gang dimuat
+[13:55:04] Indonesia Unity Roleplay
+[13:55:04] Number of vehicle models: 85
+[13:55:24] [connection] 192.168.0.2:49617 requests connection cookie.
+[13:55:25] [connection] incoming connection: 192.168.0.2:49617 id: 0
+[13:55:25] [join] Jhon_Sing has joined the server (0:192.168.0.2)
+[13:55:32] Mengambil bonus Jhon_Sing , sebelum bonus rekening bank 0
+[13:55:32] Mengambil bonus Jhon_Sing , setelah akun bonus bank 1500
+[13:55:39] Jhon_Sing[0] used command: /admin
+[13:55:42] Jhon_Sing[0] used command: /givecash
+[13:55:45] Jhon_Sing[0] used command: /givecash 0 100
+[13:55:48] Jhon_Sing[0] used command: /givecash 0 10000
+[13:55:56] Jhon_Sing[0] used command: /givedonate
+[13:56:01] Jhon_Sing[0] used command: /givedonate 0 100
+[13:56:13] Jhon_Sing[0] used command: /mm
+[13:56:32] Jhon_Sing[0] used command: /setskin 0 22
+[13:56:34] Jhon_Sing[0] used command: /mm
+[13:56:39] Jhon_Sing[0] used command: /setlevel
+[13:56:42] Jhon_Sing[0] used command: /setstats
+[13:56:50] Jhon_Sing[0] used command: /setstats 1 1 5
+[13:56:57] Jhon_Sing[0] used command: /setstats 0 2 2
+[13:57:03] Jhon_Sing[0] used command: /setstats 0 1 5
+[13:57:06] Jhon_Sing[0] used command: /mm
+[13:57:20] [sv:dbg:network:connect] : disconnecting player (0) ...
+[13:57:20] [part] Jhon_Sing has left the server (0:1)
+[13:57:23]  -------------------------------------------
+[13:57:23]            SampVoice unloading...           
+[13:57:23]  -------------------------------------------
+[13:57:24] [dbg:raknet:free] : module releasing...
+[13:57:24] [dbg:raknet:free] : module released
+[13:57:24] [sv:dbg:network:free] : module releasing...
+[13:57:24] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:06:50] password = ""  (string)
+[14:06:50] lagcompmode = 1  (int)
+[14:06:50] filterscripts = ""  (string)
+[14:06:50] 
+[14:06:50] Server Plugins
+[14:06:50] --------------
+[14:06:50]  Loading plugin: sampvoice
+[14:06:50] [sv:dbg:network:init] : module initializing...
+[14:06:50] [dbg:raknet:init] : module initializing...
+[14:06:50] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[14:06:50] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[14:06:50] [dbg:raknet:init] : module initialized
+[14:06:50] [sv:dbg:network:init] : module initialized
+[14:06:50]  -------------------------------------------    
+[14:06:50]    ___                __   __    _              
+[14:06:50]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[14:06:50]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[14:06:50]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[14:06:50]                   |_|                           
+[14:06:50]  -------------------------------------------    
+[14:06:50]            SampVoice by MOR loaded              
+[14:06:50]  -------------------------------------------    
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: crashdetect
+[14:06:50]   CrashDetect plugin 4.19.4
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: streamer
+[14:06:50] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: mysql
+[14:06:50]  >> plugin.mysql: R39-6 successfully loaded.
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: dc_cmd
+[14:06:50]   Daniel's CMD plugin v2.8
+[14:06:50]     (c) 2014 Daniel_Cortez
+[14:06:50] 	www.pro-pawn.ru
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: ColAndreas
+[14:06:50] *********************
+[14:06:50] ** Created By:     **
+[14:06:50] ** [uL]Chris42O    **
+[14:06:50] ** [uL]Slice       **
+[14:06:50] ** [uL]Pottus      **
+[14:06:50] *********************
+[14:06:50] No collision data found.
+[14:06:50] *********************
+[14:06:50]   ColAndreas Loaded
+[14:06:50]    v1.4.0
+[14:06:50] *********************
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: sscanf
+[14:06:50] 
+
+[14:06:50]  ===============================
+
+[14:06:50]       sscanf plugin loaded.     
+
+[14:06:50]          Version:  2.8.3        
+
+[14:06:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:06:50]  ===============================
+
+[14:06:50]   Loaded.
+[14:06:50]  Loading plugin: timerfix
+[14:06:50]   >> TimerFix v1.5 successfully loaded.
+[14:06:50]   Loaded.
+[14:06:50]  Loaded 8 plugins.
+
+[14:06:50] 
+[14:06:50] Filterscripts
+[14:06:50] ---------------
+[14:06:50]   Loaded 0 filterscripts.
+
+[14:06:50] [sv:dbg:main:AmxLoad] : net game pointer (value:00669CB0) received
+[14:06:50] [sv:dbg:network:bind] : voice server running on port 49649
+[14:06:50] [Vehicle]: Semua kendaraan dibuat
+[14:06:50] [TextDraw]: Semua kesehatan teks dibuat
+[14:06:50] [DYNAMIC PICK] Loaded
+[14:06:50] [TP]: Semua input/output dibuat
+[14:06:50] [ATM]: Semua ATM dibuat
+[14:06:50] password = ""  (string)
+[14:06:50] [Repositories]: Semua gudang dimuat
+[14:06:50] 227 Load House
+[14:06:50] 228 Load House
+[14:06:50] 230 Load House
+[14:06:50] 231 Load House
+[14:06:50] 233 Load House
+[14:06:50] 236 Load House
+[14:06:50] 245 Load House
+[14:06:50] [Houses]: Rumah dimuat: 377
+[14:06:50] [Houses]: Penyewa diunggah: 0
+[14:06:50] [Family]: Keluarga : 14
+[14:06:50] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[14:06:50] [FuelST]: Isi ulang diunggah: 4
+[14:06:50] [Business]: Bisnis dimuat: 101
+[14:06:50] [GangZones]: Gangzon dimuat: 60
+[14:06:50] [GangRepositories]: Gudang Gang dimuat
+[14:06:50] Indonesia Unity Roleplay
+[14:06:50] Number of vehicle models: 85
+[14:07:10] [connection] 192.168.0.2:60029 requests connection cookie.
+[14:07:11] [connection] incoming connection: 192.168.0.2:60029 id: 0
+[14:07:11] [join] Jhon_Sing has joined the server (0:192.168.0.2)
+[14:07:22] Jhon_Sing[0] used command: /warn
+[14:07:28] Jhon_Sing[0] used command: /warn 0 lol
+[14:07:33] [sv:dbg:network:connect] : disconnecting player (0) ...
+[14:07:33] [part] Jhon_Sing has left the server (0:1)
+[14:07:42]  -------------------------------------------
+[14:07:42]            SampVoice unloading...           
+[14:07:42]  -------------------------------------------
+[14:07:42] [dbg:raknet:free] : module releasing...
+[14:07:42] [dbg:raknet:free] : module released
+[14:07:42] [sv:dbg:network:free] : module releasing...
+[14:07:42] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:32:54] password = ""  (string)
+[14:32:54] lagcompmode = 1  (int)
+[14:32:54] filterscripts = ""  (string)
+[14:32:54] 
+[14:32:54] Server Plugins
+[14:32:54] --------------
+[14:32:54]  Loading plugin: sampvoice
+[14:32:54] [sv:dbg:network:init] : module initializing...
+[14:32:54] [dbg:raknet:init] : module initializing...
+[14:32:54] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[14:32:54] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[14:32:54] [dbg:raknet:init] : module initialized
+[14:32:54] [sv:dbg:network:init] : module initialized
+[14:32:54]  -------------------------------------------    
+[14:32:54]    ___                __   __    _              
+[14:32:54]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[14:32:54]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[14:32:54]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[14:32:54]                   |_|                           
+[14:32:54]  -------------------------------------------    
+[14:32:54]            SampVoice by MOR loaded              
+[14:32:54]  -------------------------------------------    
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: crashdetect
+[14:32:54]   CrashDetect plugin 4.19.4
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: streamer
+[14:32:54] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: mysql
+[14:32:54]  >> plugin.mysql: R39-6 successfully loaded.
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: dc_cmd
+[14:32:54]   Daniel's CMD plugin v2.8
+[14:32:54]     (c) 2014 Daniel_Cortez
+[14:32:54] 	www.pro-pawn.ru
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: ColAndreas
+[14:32:54] *********************
+[14:32:54] ** Created By:     **
+[14:32:54] ** [uL]Chris42O    **
+[14:32:54] ** [uL]Slice       **
+[14:32:54] ** [uL]Pottus      **
+[14:32:54] *********************
+[14:32:54] No collision data found.
+[14:32:54] *********************
+[14:32:54]   ColAndreas Loaded
+[14:32:54]    v1.4.0
+[14:32:54] *********************
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: sscanf
+[14:32:54] 
+
+[14:32:54]  ===============================
+
+[14:32:54]       sscanf plugin loaded.     
+
+[14:32:54]          Version:  2.8.3        
+
+[14:32:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:32:54]  ===============================
+
+[14:32:54]   Loaded.
+[14:32:54]  Loading plugin: timerfix
+[14:32:54]   >> TimerFix v1.5 successfully loaded.
+[14:32:54]   Loaded.
+[14:32:54]  Loaded 8 plugins.
+
+[14:32:54] 
+[14:32:54] Filterscripts
+[14:32:54] ---------------
+[14:32:54]   Loaded 0 filterscripts.
+
+[14:32:54] [sv:dbg:main:AmxLoad] : net game pointer (value:02439CB0) received
+[14:32:54] [sv:dbg:network:bind] : voice server running on port 50052
+[14:32:54] [Vehicle]: Semua kendaraan dibuat
+[14:32:54] [TextDraw]: Semua kesehatan teks dibuat
+[14:32:54] [DYNAMIC PICK] Loaded
+[14:32:54] [TP]: Semua input/output dibuat
+[14:32:54] [ATM]: Semua ATM dibuat
+[14:32:54] password = ""  (string)
+[14:32:54] [Repositories]: Semua gudang dimuat
+[14:32:54] 227 Load House
+[14:32:54] 228 Load House
+[14:32:54] 230 Load House
+[14:32:54] 231 Load House
+[14:32:54] 233 Load House
+[14:32:54] 236 Load House
+[14:32:54] 245 Load House
+[14:32:54] [Houses]: Rumah dimuat: 377
+[14:32:54] [Houses]: Penyewa diunggah: 0
+[14:32:54] [Family]: Keluarga : 14
+[14:32:54] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[14:32:54] [FuelST]: Isi ulang diunggah: 4
+[14:32:54] [Business]: Bisnis dimuat: 101
+[14:32:54] [GangZones]: Gangzon dimuat: 60
+[14:32:54] [GangRepositories]: Gudang Gang dimuat
+[14:32:54] Indonesia Unity Roleplay
+[14:32:54] Number of vehicle models: 85
+[14:33:25] [connection] 192.168.0.2:50767 requests connection cookie.
+[14:33:26] [connection] incoming connection: 192.168.0.2:50767 id: 0
+[14:33:27] [join] Jhon_Sing has joined the server (0:192.168.0.2)
+[14:34:04] [sv:dbg:network:connect] : disconnecting player (0) ...
+[14:34:04] [part] Jhon_Sing has left the server (0:1)
+[14:34:08]  -------------------------------------------
+[14:34:08]            SampVoice unloading...           
+[14:34:08]  -------------------------------------------
+[14:34:08] [dbg:raknet:free] : module releasing...
+[14:34:08] [dbg:raknet:free] : module released
+[14:34:08] [sv:dbg:network:free] : module releasing...
+[14:34:08] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:37:24] password = ""  (string)
+[21:37:24] lagcompmode = 1  (int)
+[21:37:24] filterscripts = ""  (string)
+[21:37:24] 
+[21:37:24] Server Plugins
+[21:37:24] --------------
+[21:37:24]  Loading plugin: sampvoice
+[21:37:24] [sv:dbg:network:init] : module initializing...
+[21:37:24] [dbg:raknet:init] : module initializing...
+[21:37:24] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[21:37:24] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[21:37:24] [dbg:raknet:init] : module initialized
+[21:37:24] [sv:dbg:network:init] : module initialized
+[21:37:24]  -------------------------------------------    
+[21:37:24]    ___                __   __    _              
+[21:37:24]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:37:24]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:37:24]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:37:24]                   |_|                           
+[21:37:24]  -------------------------------------------    
+[21:37:24]            SampVoice by MOR loaded              
+[21:37:24]  -------------------------------------------    
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: crashdetect
+[21:37:24]   CrashDetect plugin 4.19.4
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: streamer
+[21:37:24] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: mysql
+[21:37:24]  >> plugin.mysql: R39-6 successfully loaded.
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: dc_cmd
+[21:37:24]   Daniel's CMD plugin v2.8
+[21:37:24]     (c) 2014 Daniel_Cortez
+[21:37:24] 	www.pro-pawn.ru
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: ColAndreas
+[21:37:24] *********************
+[21:37:24] ** Created By:     **
+[21:37:24] ** [uL]Chris42O    **
+[21:37:24] ** [uL]Slice       **
+[21:37:24] ** [uL]Pottus      **
+[21:37:24] *********************
+[21:37:24] No collision data found.
+[21:37:24] *********************
+[21:37:24]   ColAndreas Loaded
+[21:37:24]    v1.4.0
+[21:37:24] *********************
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: sscanf
+[21:37:24] 
+
+[21:37:24]  ===============================
+
+[21:37:24]       sscanf plugin loaded.     
+
+[21:37:24]          Version:  2.8.3        
+
+[21:37:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:37:24]  ===============================
+
+[21:37:24]   Loaded.
+[21:37:24]  Loading plugin: timerfix
+[21:37:24]   >> TimerFix v1.5 successfully loaded.
+[21:37:24]   Loaded.
+[21:37:24]  Loaded 8 plugins.
+
+[21:37:24] 
+[21:37:24] Filterscripts
+[21:37:24] ---------------
+[21:37:24]   Loaded 0 filterscripts.
+
+[21:37:24] [sv:dbg:main:AmxLoad] : net game pointer (value:023F9CB0) received
+[21:37:24] [sv:dbg:network:bind] : voice server running on port 59397
+[21:37:24] [Vehicle]: Semua kendaraan dibuat
+[21:37:24] [TextDraw]: Semua kesehatan teks dibuat
+[21:37:24] [DYNAMIC PICK] Loaded
+[21:37:24] [TP]: Semua input/output dibuat
+[21:37:24] [ATM]: Semua ATM dibuat
+[21:37:26] password = ""  (string)
+[21:37:26] Gagal terhubung ke database!
+[21:37:26] Indonesia Unity Roleplay
+[21:37:26] Number of vehicle models: 85
+[21:37:31]  -------------------------------------------
+[21:37:31]            SampVoice unloading...           
+[21:37:31]  -------------------------------------------
+[21:37:31] [dbg:raknet:free] : module releasing...
+[21:37:31] [dbg:raknet:free] : module released
+[21:37:31] [sv:dbg:network:free] : module releasing...
+[21:37:31] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:11:10] password = ""  (string)
+[22:11:10] lagcompmode = 1  (int)
+[22:11:10] filterscripts = ""  (string)
+[22:11:10] 
+[22:11:10] Server Plugins
+[22:11:10] --------------
+[22:11:10]  Loading plugin: sampvoice
+[22:11:10] [sv:dbg:network:init] : module initializing...
+[22:11:10] [dbg:raknet:init] : module initializing...
+[22:11:10] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:11:10] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:11:10] [dbg:raknet:init] : module initialized
+[22:11:10] [sv:dbg:network:init] : module initialized
+[22:11:10]  -------------------------------------------    
+[22:11:10]    ___                __   __    _              
+[22:11:10]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:11:10]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:11:10]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:11:10]                   |_|                           
+[22:11:10]  -------------------------------------------    
+[22:11:10]            SampVoice by MOR loaded              
+[22:11:10]  -------------------------------------------    
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: crashdetect
+[22:11:10]   CrashDetect plugin 4.19.4
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: streamer
+[22:11:10] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: mysql
+[22:11:10]  >> plugin.mysql: R39-6 successfully loaded.
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: dc_cmd
+[22:11:10]   Daniel's CMD plugin v2.8
+[22:11:10]     (c) 2014 Daniel_Cortez
+[22:11:10] 	www.pro-pawn.ru
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: ColAndreas
+[22:11:10] *********************
+[22:11:10] ** Created By:     **
+[22:11:10] ** [uL]Chris42O    **
+[22:11:10] ** [uL]Slice       **
+[22:11:10] ** [uL]Pottus      **
+[22:11:10] *********************
+[22:11:10] No collision data found.
+[22:11:10] *********************
+[22:11:10]   ColAndreas Loaded
+[22:11:10]    v1.4.0
+[22:11:10] *********************
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: sscanf
+[22:11:10] 
+
+[22:11:10]  ===============================
+
+[22:11:10]       sscanf plugin loaded.     
+
+[22:11:10]          Version:  2.8.3        
+
+[22:11:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:11:10]  ===============================
+
+[22:11:10]   Loaded.
+[22:11:10]  Loading plugin: timerfix
+[22:11:10]   >> TimerFix v1.5 successfully loaded.
+[22:11:10]   Loaded.
+[22:11:10]  Loaded 8 plugins.
+
+[22:11:10] 
+[22:11:10] Filterscripts
+[22:11:10] ---------------
+[22:11:10]   Loaded 0 filterscripts.
+
+[22:11:10] [sv:dbg:main:AmxLoad] : net game pointer (value:021E9CB0) received
+[22:11:10] [sv:dbg:network:bind] : voice server running on port 54254
+[22:11:10] [Vehicle]: Semua kendaraan dibuat
+[22:11:10] [TextDraw]: Semua kesehatan teks dibuat
+[22:11:10] [DYNAMIC PICK] Loaded
+[22:11:10] [TP]: Semua input/output dibuat
+[22:11:10] [ATM]: Semua ATM dibuat
+[22:11:34] password = ""  (string)
+[22:11:34] Gagal terhubung ke database!
+[22:11:34] Indonesia Unity Roleplay
+[22:11:34] Number of vehicle models: 85
+[22:11:52]  -------------------------------------------
+[22:11:52]            SampVoice unloading...           
+[22:11:52]  -------------------------------------------
+[22:11:52] [dbg:raknet:free] : module releasing...
+[22:11:52] [dbg:raknet:free] : module released
+[22:11:52] [sv:dbg:network:free] : module releasing...
+[22:11:52] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:12:05] password = ""  (string)
+[22:12:05] lagcompmode = 1  (int)
+[22:12:05] filterscripts = ""  (string)
+[22:12:05] 
+[22:12:05] Server Plugins
+[22:12:05] --------------
+[22:12:05]  Loading plugin: sampvoice
+[22:12:05] [sv:dbg:network:init] : module initializing...
+[22:12:05] [dbg:raknet:init] : module initializing...
+[22:12:05] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:12:05] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:12:05] [dbg:raknet:init] : module initialized
+[22:12:05] [sv:dbg:network:init] : module initialized
+[22:12:05]  -------------------------------------------    
+[22:12:05]    ___                __   __    _              
+[22:12:05]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:12:05]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:12:05]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:12:05]                   |_|                           
+[22:12:05]  -------------------------------------------    
+[22:12:05]            SampVoice by MOR loaded              
+[22:12:05]  -------------------------------------------    
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: crashdetect
+[22:12:05]   CrashDetect plugin 4.19.4
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: streamer
+[22:12:05] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: mysql
+[22:12:05]  >> plugin.mysql: R39-6 successfully loaded.
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: dc_cmd
+[22:12:05]   Daniel's CMD plugin v2.8
+[22:12:05]     (c) 2014 Daniel_Cortez
+[22:12:05] 	www.pro-pawn.ru
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: ColAndreas
+[22:12:05] *********************
+[22:12:05] ** Created By:     **
+[22:12:05] ** [uL]Chris42O    **
+[22:12:05] ** [uL]Slice       **
+[22:12:05] ** [uL]Pottus      **
+[22:12:05] *********************
+[22:12:05] No collision data found.
+[22:12:05] *********************
+[22:12:05]   ColAndreas Loaded
+[22:12:05]    v1.4.0
+[22:12:05] *********************
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: sscanf
+[22:12:05] 
+
+[22:12:05]  ===============================
+
+[22:12:05]       sscanf plugin loaded.     
+
+[22:12:05]          Version:  2.8.3        
+
+[22:12:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:12:05]  ===============================
+
+[22:12:05]   Loaded.
+[22:12:05]  Loading plugin: timerfix
+[22:12:05]   >> TimerFix v1.5 successfully loaded.
+[22:12:05]   Loaded.
+[22:12:05]  Loaded 8 plugins.
+
+[22:12:05] 
+[22:12:05] Filterscripts
+[22:12:05] ---------------
+[22:12:05]   Loaded 0 filterscripts.
+
+[22:12:05] [sv:dbg:main:AmxLoad] : net game pointer (value:02359CB0) received
+[22:12:05] [sv:dbg:network:bind] : voice server running on port 61857
+[22:12:05] [Vehicle]: Semua kendaraan dibuat
+[22:12:05] [TextDraw]: Semua kesehatan teks dibuat
+[22:12:05] [DYNAMIC PICK] Loaded
+[22:12:05] [TP]: Semua input/output dibuat
+[22:12:05] [ATM]: Semua ATM dibuat
+[22:12:26] password = ""  (string)
+[22:12:26] Gagal terhubung ke database!
+[22:12:26] Indonesia Unity Roleplay
+[22:12:26] Number of vehicle models: 85
+[22:12:52]  -------------------------------------------
+[22:12:52]            SampVoice unloading...           
+[22:12:52]  -------------------------------------------
+[22:12:53] [dbg:raknet:free] : module releasing...
+[22:12:53] [dbg:raknet:free] : module released
+[22:12:53] [sv:dbg:network:free] : module releasing...
+[22:12:53] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:18:10] password = ""  (string)
+[22:18:10] lagcompmode = 1  (int)
+[22:18:10] filterscripts = ""  (string)
+[22:18:10] 
+[22:18:10] Server Plugins
+[22:18:10] --------------
+[22:18:10]  Loading plugin: sampvoice
+[22:18:10] [sv:dbg:network:init] : module initializing...
+[22:18:10] [dbg:raknet:init] : module initializing...
+[22:18:10] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:18:10] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:18:10] [dbg:raknet:init] : module initialized
+[22:18:10] [sv:dbg:network:init] : module initialized
+[22:18:10]  -------------------------------------------    
+[22:18:10]    ___                __   __    _              
+[22:18:10]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:18:10]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:18:10]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:18:10]                   |_|                           
+[22:18:10]  -------------------------------------------    
+[22:18:10]            SampVoice by MOR loaded              
+[22:18:10]  -------------------------------------------    
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: crashdetect
+[22:18:10]   CrashDetect plugin 4.19.4
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: streamer
+[22:18:10] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: mysql
+[22:18:10]  >> plugin.mysql: R39-6 successfully loaded.
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: dc_cmd
+[22:18:10]   Daniel's CMD plugin v2.8
+[22:18:10]     (c) 2014 Daniel_Cortez
+[22:18:10] 	www.pro-pawn.ru
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: ColAndreas
+[22:18:10] *********************
+[22:18:10] ** Created By:     **
+[22:18:10] ** [uL]Chris42O    **
+[22:18:10] ** [uL]Slice       **
+[22:18:10] ** [uL]Pottus      **
+[22:18:10] *********************
+[22:18:10] No collision data found.
+[22:18:10] *********************
+[22:18:10]   ColAndreas Loaded
+[22:18:10]    v1.4.0
+[22:18:10] *********************
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: sscanf
+[22:18:10] 
+
+[22:18:10]  ===============================
+
+[22:18:10]       sscanf plugin loaded.     
+
+[22:18:10]          Version:  2.8.3        
+
+[22:18:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:18:10]  ===============================
+
+[22:18:10]   Loaded.
+[22:18:10]  Loading plugin: timerfix
+[22:18:10]   >> TimerFix v1.5 successfully loaded.
+[22:18:10]   Loaded.
+[22:18:10]  Loaded 8 plugins.
+
+[22:18:10] 
+[22:18:10] Filterscripts
+[22:18:10] ---------------
+[22:18:10]   Loaded 0 filterscripts.
+
+[22:18:11] [sv:dbg:main:AmxLoad] : net game pointer (value:00709CB0) received
+[22:18:11] [sv:dbg:network:bind] : voice server running on port 51806
+[22:18:11] [Vehicle]: Semua kendaraan dibuat
+[22:18:11] [TextDraw]: Semua kesehatan teks dibuat
+[22:18:11] [DYNAMIC PICK] Loaded
+[22:18:11] [TP]: Semua input/output dibuat
+[22:18:11] [ATM]: Semua ATM dibuat
+[22:18:16]  -------------------------------------------
+[22:18:16]            SampVoice unloading...           
+[22:18:16]  -------------------------------------------
+[22:18:16] [dbg:raknet:free] : module releasing...
+[22:18:16] [dbg:raknet:free] : module released
+[22:18:16] [sv:dbg:network:free] : module releasing...
+[22:18:16] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:18:30] password = ""  (string)
+[22:18:30] lagcompmode = 1  (int)
+[22:18:30] filterscripts = ""  (string)
+[22:18:30] 
+[22:18:30] Server Plugins
+[22:18:30] --------------
+[22:18:30]  Loading plugin: sampvoice
+[22:18:30] [sv:dbg:network:init] : module initializing...
+[22:18:30] [dbg:raknet:init] : module initializing...
+[22:18:30] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[22:18:30] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[22:18:30] [dbg:raknet:init] : module initialized
+[22:18:30] [sv:dbg:network:init] : module initialized
+[22:18:30]  -------------------------------------------    
+[22:18:30]    ___                __   __    _              
+[22:18:30]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:18:30]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:18:30]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:18:30]                   |_|                           
+[22:18:30]  -------------------------------------------    
+[22:18:30]            SampVoice by MOR loaded              
+[22:18:30]  -------------------------------------------    
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: crashdetect
+[22:18:30]   CrashDetect plugin 4.19.4
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: streamer
+[22:18:30] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: mysql
+[22:18:30]  >> plugin.mysql: R39-6 successfully loaded.
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: dc_cmd
+[22:18:30]   Daniel's CMD plugin v2.8
+[22:18:30]     (c) 2014 Daniel_Cortez
+[22:18:30] 	www.pro-pawn.ru
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: ColAndreas
+[22:18:30] *********************
+[22:18:30] ** Created By:     **
+[22:18:30] ** [uL]Chris42O    **
+[22:18:30] ** [uL]Slice       **
+[22:18:30] ** [uL]Pottus      **
+[22:18:30] *********************
+[22:18:30] No collision data found.
+[22:18:30] *********************
+[22:18:30]   ColAndreas Loaded
+[22:18:30]    v1.4.0
+[22:18:30] *********************
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: sscanf
+[22:18:30] 
+
+[22:18:30]  ===============================
+
+[22:18:30]       sscanf plugin loaded.     
+
+[22:18:30]          Version:  2.8.3        
+
+[22:18:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:18:30]  ===============================
+
+[22:18:30]   Loaded.
+[22:18:30]  Loading plugin: timerfix
+[22:18:30]   >> TimerFix v1.5 successfully loaded.
+[22:18:30]   Loaded.
+[22:18:30]  Loaded 8 plugins.
+
+[22:18:30] 
+[22:18:30] Filterscripts
+[22:18:30] ---------------
+[22:18:30]   Loaded 0 filterscripts.
+
+[22:18:30] [sv:dbg:main:AmxLoad] : net game pointer (value:023B9CB0) received
+[22:18:30] [sv:dbg:network:bind] : voice server running on port 60653
+[22:18:30] [Vehicle]: Semua kendaraan dibuat
+[22:18:30] [TextDraw]: Semua kesehatan teks dibuat
+[22:18:30] [DYNAMIC PICK] Loaded
+[22:18:30] [TP]: Semua input/output dibuat
+[22:18:30] [ATM]: Semua ATM dibuat
+[22:18:51] password = ""  (string)
+[22:18:51] Gagal terhubung ke database!
+[22:18:51] Indonesia Unity Roleplay
+[22:18:51] Number of vehicle models: 85
+[22:19:58]  -------------------------------------------
+[22:19:58]            SampVoice unloading...           
+[22:19:58]  -------------------------------------------
+[22:19:59] [dbg:raknet:free] : module releasing...
+[22:19:59] [dbg:raknet:free] : module released
+[22:19:59] [sv:dbg:network:free] : module releasing...
+[22:19:59] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:49:38] password = ""  (string)
+[08:49:38] lagcompmode = 1  (int)
+[08:49:38] filterscripts = ""  (string)
+[08:49:38] 
+[08:49:38] Server Plugins
+[08:49:38] --------------
+[08:49:38]  Loading plugin: sampvoice
+[08:49:38] [sv:dbg:network:init] : module initializing...
+[08:49:38] [dbg:raknet:init] : module initializing...
+[08:49:38] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[08:49:38] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[08:49:38] [dbg:raknet:init] : module initialized
+[08:49:38] [sv:dbg:network:init] : module initialized
+[08:49:38]  -------------------------------------------    
+[08:49:38]    ___                __   __    _              
+[08:49:38]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[08:49:38]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[08:49:38]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[08:49:38]                   |_|                           
+[08:49:38]  -------------------------------------------    
+[08:49:38]            SampVoice by MOR loaded              
+[08:49:38]  -------------------------------------------    
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: crashdetect
+[08:49:38]   CrashDetect plugin 4.19.4
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: streamer
+[08:49:38] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: mysql
+[08:49:38]  >> plugin.mysql: R39-6 successfully loaded.
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: dc_cmd
+[08:49:38]   Daniel's CMD plugin v2.8
+[08:49:38]     (c) 2014 Daniel_Cortez
+[08:49:38] 	www.pro-pawn.ru
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: ColAndreas
+[08:49:38] *********************
+[08:49:38] ** Created By:     **
+[08:49:38] ** [uL]Chris42O    **
+[08:49:38] ** [uL]Slice       **
+[08:49:38] ** [uL]Pottus      **
+[08:49:38] *********************
+[08:49:38] No collision data found.
+[08:49:38] *********************
+[08:49:38]   ColAndreas Loaded
+[08:49:38]    v1.4.0
+[08:49:38] *********************
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: sscanf
+[08:49:38] 
+
+[08:49:38]  ===============================
+
+[08:49:38]       sscanf plugin loaded.     
+
+[08:49:38]          Version:  2.8.3        
+
+[08:49:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:49:38]  ===============================
+
+[08:49:38]   Loaded.
+[08:49:38]  Loading plugin: timerfix
+[08:49:38]   >> TimerFix v1.5 successfully loaded.
+[08:49:38]   Loaded.
+[08:49:38]  Loaded 8 plugins.
+
+[08:49:39] 
+[08:49:39] Filterscripts
+[08:49:39] ---------------
+[08:49:39]   Loaded 0 filterscripts.
+
+[08:49:39] [sv:dbg:main:AmxLoad] : net game pointer (value:023B9CB0) received
+[08:49:39] [sv:dbg:network:bind] : voice server running on port 52759
+[08:49:39] [Vehicle]: Semua kendaraan dibuat
+[08:49:39] [TextDraw]: Semua kesehatan teks dibuat
+[08:49:39] [DYNAMIC PICK] Loaded
+[08:49:39] [TP]: Semua input/output dibuat
+[08:49:39] [ATM]: Semua ATM dibuat
+[08:49:39] password = ""  (string)
+[08:49:39] Gagal terhubung ke database!
+[08:49:39] Indonesia Unity Roleplay
+[08:49:39] Number of vehicle models: 85
+[08:49:41]  -------------------------------------------
+[08:49:41]            SampVoice unloading...           
+[08:49:41]  -------------------------------------------
+[08:49:42] [dbg:raknet:free] : module releasing...
+[08:49:42] [dbg:raknet:free] : module released
+[08:49:42] [sv:dbg:network:free] : module releasing...
+[08:49:42] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:49:56] password = ""  (string)
+[08:49:56] lagcompmode = 1  (int)
+[08:49:56] filterscripts = ""  (string)
+[08:49:56] 
+[08:49:56] Server Plugins
+[08:49:56] --------------
+[08:49:56]  Loading plugin: sampvoice
+[08:49:56] [sv:dbg:network:init] : module initializing...
+[08:49:56] [dbg:raknet:init] : module initializing...
+[08:49:56] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[08:49:56] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[08:49:56] [dbg:raknet:init] : module initialized
+[08:49:56] [sv:dbg:network:init] : module initialized
+[08:49:56]  -------------------------------------------    
+[08:49:56]    ___                __   __    _              
+[08:49:56]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[08:49:56]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[08:49:56]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[08:49:56]                   |_|                           
+[08:49:56]  -------------------------------------------    
+[08:49:56]            SampVoice by MOR loaded              
+[08:49:56]  -------------------------------------------    
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: crashdetect
+[08:49:56]   CrashDetect plugin 4.19.4
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: streamer
+[08:49:56] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: mysql
+[08:49:56]  >> plugin.mysql: R39-6 successfully loaded.
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: dc_cmd
+[08:49:56]   Daniel's CMD plugin v2.8
+[08:49:56]     (c) 2014 Daniel_Cortez
+[08:49:56] 	www.pro-pawn.ru
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: ColAndreas
+[08:49:56] *********************
+[08:49:56] ** Created By:     **
+[08:49:56] ** [uL]Chris42O    **
+[08:49:56] ** [uL]Slice       **
+[08:49:56] ** [uL]Pottus      **
+[08:49:56] *********************
+[08:49:56] No collision data found.
+[08:49:56] *********************
+[08:49:56]   ColAndreas Loaded
+[08:49:56]    v1.4.0
+[08:49:56] *********************
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: sscanf
+[08:49:56] 
+
+[08:49:56]  ===============================
+
+[08:49:56]       sscanf plugin loaded.     
+
+[08:49:56]          Version:  2.8.3        
+
+[08:49:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:49:56]  ===============================
+
+[08:49:56]   Loaded.
+[08:49:56]  Loading plugin: timerfix
+[08:49:56]   >> TimerFix v1.5 successfully loaded.
+[08:49:56]   Loaded.
+[08:49:56]  Loaded 8 plugins.
+
+[08:49:56] 
+[08:49:56] Filterscripts
+[08:49:56] ---------------
+[08:49:56]   Loaded 0 filterscripts.
+
+[08:49:56] [sv:dbg:main:AmxLoad] : net game pointer (value:02399CB0) received
+[08:49:56] [sv:dbg:network:bind] : voice server running on port 54033
+[08:49:56] [Vehicle]: Semua kendaraan dibuat
+[08:49:56] [TextDraw]: Semua kesehatan teks dibuat
+[08:49:56] [DYNAMIC PICK] Loaded
+[08:49:56] [TP]: Semua input/output dibuat
+[08:49:56] [ATM]: Semua ATM dibuat
+[08:50:00] password = ""  (string)
+[08:50:00] Gagal terhubung ke database!
+[08:50:00] Indonesia Unity Roleplay
+[08:50:00] Number of vehicle models: 85
+[08:50:10]  -------------------------------------------
+[08:50:10]            SampVoice unloading...           
+[08:50:10]  -------------------------------------------
+[08:50:11] [dbg:raknet:free] : module releasing...
+[08:50:11] [dbg:raknet:free] : module released
+[08:50:11] [sv:dbg:network:free] : module releasing...
+[08:50:11] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:51:46] password = ""  (string)
+[08:51:46] lagcompmode = 1  (int)
+[08:51:46] filterscripts = ""  (string)
+[08:51:46] 
+[08:51:46] Server Plugins
+[08:51:46] --------------
+[08:51:46]  Loading plugin: sampvoice
+[08:51:46] [sv:dbg:network:init] : module initializing...
+[08:51:46] [dbg:raknet:init] : module initializing...
+[08:51:46] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[08:51:46] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[08:51:46] [dbg:raknet:init] : module initialized
+[08:51:46] [sv:dbg:network:init] : module initialized
+[08:51:46]  -------------------------------------------    
+[08:51:46]    ___                __   __    _              
+[08:51:46]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[08:51:46]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[08:51:46]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[08:51:46]                   |_|                           
+[08:51:46]  -------------------------------------------    
+[08:51:46]            SampVoice by MOR loaded              
+[08:51:46]  -------------------------------------------    
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: crashdetect
+[08:51:46]   CrashDetect plugin 4.19.4
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: streamer
+[08:51:46] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: mysql
+[08:51:46]  >> plugin.mysql: R39-6 successfully loaded.
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: dc_cmd
+[08:51:46]   Daniel's CMD plugin v2.8
+[08:51:46]     (c) 2014 Daniel_Cortez
+[08:51:46] 	www.pro-pawn.ru
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: ColAndreas
+[08:51:46] *********************
+[08:51:46] ** Created By:     **
+[08:51:46] ** [uL]Chris42O    **
+[08:51:46] ** [uL]Slice       **
+[08:51:46] ** [uL]Pottus      **
+[08:51:46] *********************
+[08:51:46] No collision data found.
+[08:51:46] *********************
+[08:51:46]   ColAndreas Loaded
+[08:51:46]    v1.4.0
+[08:51:46] *********************
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: sscanf
+[08:51:46] 
+
+[08:51:46]  ===============================
+
+[08:51:46]       sscanf plugin loaded.     
+
+[08:51:46]          Version:  2.8.3        
+
+[08:51:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:51:46]  ===============================
+
+[08:51:46]   Loaded.
+[08:51:46]  Loading plugin: timerfix
+[08:51:46]   >> TimerFix v1.5 successfully loaded.
+[08:51:46]   Loaded.
+[08:51:46]  Loaded 8 plugins.
+
+[08:51:46] 
+[08:51:46] Filterscripts
+[08:51:46] ---------------
+[08:51:46]   Loaded 0 filterscripts.
+
+[08:51:46] [sv:dbg:main:AmxLoad] : net game pointer (value:022E9CB0) received
+[08:51:46] [sv:dbg:network:bind] : voice server running on port 60818
+[08:51:46] [Vehicle]: Semua kendaraan dibuat
+[08:51:46] [TextDraw]: Semua kesehatan teks dibuat
+[08:51:46] [DYNAMIC PICK] Loaded
+[08:51:46] [TP]: Semua input/output dibuat
+[08:51:46] [ATM]: Semua ATM dibuat
+[08:51:46] password = ""  (string)
+[08:51:46] [Repositories]: Semua gudang dimuat
+[08:51:47] 227 Load House
+[08:51:47] 228 Load House
+[08:51:47] 230 Load House
+[08:51:47] 231 Load House
+[08:51:47] 233 Load House
+[08:51:47] 236 Load House
+[08:51:47] 245 Load House
+[08:51:47] [Houses]: Rumah dimuat: 377
+[08:51:47] [Houses]: Penyewa diunggah: 0
+[08:51:47] [Family]: Keluarga : 14
+[08:51:47] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[08:51:47] [FuelST]: Isi ulang diunggah: 4
+[08:51:47] [Business]: Bisnis dimuat: 101
+[08:51:47] [GangZones]: Gangzon dimuat: 60
+[08:51:47] [GangRepositories]: Gudang Gang dimuat
+[08:51:47] Indonesia Unity Roleplay
+[08:51:47] Number of vehicle models: 85
+[08:51:49]  -------------------------------------------
+[08:51:49]            SampVoice unloading...           
+[08:51:49]  -------------------------------------------
+[08:51:49] [dbg:raknet:free] : module releasing...
+[08:51:49] [dbg:raknet:free] : module released
+[08:51:49] [sv:dbg:network:free] : module releasing...
+[08:51:49] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:43] password = ""  (string)
+[15:22:44] lagcompmode = 1  (int)
+[15:22:44] filterscripts = ""  (string)
+[15:22:44] 
+[15:22:44] Server Plugins
+[15:22:44] --------------
+[15:22:44]  Loading plugin: sampvoice
+[15:22:44] [sv:dbg:network:init] : module initializing...
+[15:22:44] [dbg:raknet:init] : module initializing...
+[15:22:44] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[15:22:44] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[15:22:44] [dbg:raknet:init] : module initialized
+[15:22:44] [sv:dbg:network:init] : module initialized
+[15:22:44]  -------------------------------------------    
+[15:22:44]    ___                __   __    _              
+[15:22:44]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[15:22:44]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[15:22:44]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[15:22:44]                   |_|                           
+[15:22:44]  -------------------------------------------    
+[15:22:44]            SampVoice by MOR loaded              
+[15:22:44]  -------------------------------------------    
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: crashdetect
+[15:22:44]   CrashDetect plugin 4.19.4
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: streamer
+[15:22:44] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: mysql
+[15:22:44]  >> plugin.mysql: R39-6 successfully loaded.
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: dc_cmd
+[15:22:44]   Daniel's CMD plugin v2.8
+[15:22:44]     (c) 2014 Daniel_Cortez
+[15:22:44] 	www.pro-pawn.ru
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: ColAndreas
+[15:22:44] *********************
+[15:22:44] ** Created By:     **
+[15:22:44] ** [uL]Chris42O    **
+[15:22:44] ** [uL]Slice       **
+[15:22:44] ** [uL]Pottus      **
+[15:22:44] *********************
+[15:22:44] No collision data found.
+[15:22:44] *********************
+[15:22:44]   ColAndreas Loaded
+[15:22:44]    v1.4.0
+[15:22:44] *********************
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: sscanf
+[15:22:44] 
+
+[15:22:44]  ===============================
+
+[15:22:44]       sscanf plugin loaded.     
+
+[15:22:44]          Version:  2.8.3        
+
+[15:22:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:22:44]  ===============================
+
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: timerfix
+[15:22:44]   >> TimerFix v1.5 successfully loaded.
+[15:22:44]   Loaded.
+[15:22:44]  Loaded 8 plugins.
+
+[15:22:44] 
+[15:22:44] Filterscripts
+[15:22:44] ---------------
+[15:22:44]   Loaded 0 filterscripts.
+
+[15:22:44] [sv:dbg:main:AmxLoad] : net game pointer (value:02249CC8) received
+[15:22:44] [sv:dbg:network:bind] : voice server running on port 65481
+[15:22:44] [Vehicle]: Semua kendaraan dibuat
+[15:22:44] [TextDraw]: Semua kesehatan teks dibuat
+[15:22:44] [DYNAMIC PICK] Loaded
+[15:22:44] [TP]: Semua input/output dibuat
+[15:22:44] [ATM]: Semua ATM dibuat
+[15:22:53] password = ""  (string)
+[15:22:53] Gagal terhubung ke database!
+[15:22:53] Indonesia Unity Roleplay
+[15:22:53] Number of vehicle models: 85
+[15:22:56]  -------------------------------------------
+[15:22:56]            SampVoice unloading...           
+[15:22:56]  -------------------------------------------
+[15:22:57] [dbg:raknet:free] : module releasing...
+[15:22:57] [dbg:raknet:free] : module released
+[15:22:57] [sv:dbg:network:free] : module releasing...
+[15:22:57] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:23:19] password = ""  (string)
+[15:23:19] lagcompmode = 1  (int)
+[15:23:19] filterscripts = ""  (string)
+[15:23:19] 
+[15:23:19] Server Plugins
+[15:23:19] --------------
+[15:23:19]  Loading plugin: sampvoice
+[15:23:19] [sv:dbg:network:init] : module initializing...
+[15:23:19] [dbg:raknet:init] : module initializing...
+[15:23:19] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[15:23:19] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[15:23:19] [dbg:raknet:init] : module initialized
+[15:23:19] [sv:dbg:network:init] : module initialized
+[15:23:19]  -------------------------------------------    
+[15:23:19]    ___                __   __    _              
+[15:23:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[15:23:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[15:23:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[15:23:19]                   |_|                           
+[15:23:19]  -------------------------------------------    
+[15:23:19]            SampVoice by MOR loaded              
+[15:23:19]  -------------------------------------------    
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: crashdetect
+[15:23:19]   CrashDetect plugin 4.19.4
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: streamer
+[15:23:19] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: mysql
+[15:23:19]  >> plugin.mysql: R39-6 successfully loaded.
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: dc_cmd
+[15:23:19]   Daniel's CMD plugin v2.8
+[15:23:19]     (c) 2014 Daniel_Cortez
+[15:23:19] 	www.pro-pawn.ru
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: ColAndreas
+[15:23:19] *********************
+[15:23:19] ** Created By:     **
+[15:23:19] ** [uL]Chris42O    **
+[15:23:19] ** [uL]Slice       **
+[15:23:19] ** [uL]Pottus      **
+[15:23:19] *********************
+[15:23:19] No collision data found.
+[15:23:19] *********************
+[15:23:19]   ColAndreas Loaded
+[15:23:19]    v1.4.0
+[15:23:19] *********************
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: sscanf
+[15:23:19] 
+
+[15:23:19]  ===============================
+
+[15:23:19]       sscanf plugin loaded.     
+
+[15:23:19]          Version:  2.8.3        
+
+[15:23:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:23:19]  ===============================
+
+[15:23:19]   Loaded.
+[15:23:19]  Loading plugin: timerfix
+[15:23:19]   >> TimerFix v1.5 successfully loaded.
+[15:23:19]   Loaded.
+[15:23:19]  Loaded 8 plugins.
+
+[15:23:19] 
+[15:23:19] Filterscripts
+[15:23:19] ---------------
+[15:23:19]   Loaded 0 filterscripts.
+
+[15:23:19] [sv:dbg:main:AmxLoad] : net game pointer (value:02329CC8) received
+[15:23:19] [sv:dbg:network:bind] : voice server running on port 61469
+[15:23:19] [Vehicle]: Semua kendaraan dibuat
+[15:23:19] [TextDraw]: Semua kesehatan teks dibuat
+[15:23:19] [DYNAMIC PICK] Loaded
+[15:23:19] [TP]: Semua input/output dibuat
+[15:23:19] [ATM]: Semua ATM dibuat
+[15:23:19] password = ""  (string)
+[15:23:19] [Repositories]: Semua gudang dimuat
+[15:23:20] 227 Load House
+[15:23:20] 228 Load House
+[15:23:20] 230 Load House
+[15:23:20] 231 Load House
+[15:23:20] 233 Load House
+[15:23:20] 236 Load House
+[15:23:20] 245 Load House
+[15:23:20] [Houses]: Rumah dimuat: 377
+[15:23:20] [Houses]: Penyewa diunggah: 0
+[15:23:20] [Family]: Keluarga : 14
+[15:23:20] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[15:23:20] [FuelST]: Isi ulang diunggah: 4
+[15:23:20] [Business]: Bisnis dimuat: 101
+[15:23:20] [GangZones]: Gangzon dimuat: 60
+[15:23:20] [GangRepositories]: Gudang Gang dimuat
+[15:23:20] Indonesia Unity Roleplay
+[15:23:20] Number of vehicle models: 85
+[15:25:22]  -------------------------------------------
+[15:25:22]            SampVoice unloading...           
+[15:25:22]  -------------------------------------------
+[15:25:23] [dbg:raknet:free] : module releasing...
+[15:25:23] [dbg:raknet:free] : module released
+[15:25:23] [sv:dbg:network:free] : module releasing...
+[15:25:23] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:30] password = ""  (string)
+[15:25:30] lagcompmode = 1  (int)
+[15:25:30] filterscripts = ""  (string)
+[15:25:30] 
+[15:25:30] Server Plugins
+[15:25:30] --------------
+[15:25:30]  Loading plugin: sampvoice
+[15:25:30] [sv:dbg:network:init] : module initializing...
+[15:25:30] [dbg:raknet:init] : module initializing...
+[15:25:30] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[15:25:30] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[15:25:30] [dbg:raknet:init] : module initialized
+[15:25:30] [sv:dbg:network:init] : module initialized
+[15:25:30]  -------------------------------------------    
+[15:25:30]    ___                __   __    _              
+[15:25:30]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[15:25:30]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[15:25:30]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[15:25:30]                   |_|                           
+[15:25:30]  -------------------------------------------    
+[15:25:30]            SampVoice by MOR loaded              
+[15:25:30]  -------------------------------------------    
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: crashdetect
+[15:25:30]   CrashDetect plugin 4.19.4
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: streamer
+[15:25:30] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: mysql
+[15:25:30]  >> plugin.mysql: R39-6 successfully loaded.
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: dc_cmd
+[15:25:30]   Daniel's CMD plugin v2.8
+[15:25:30]     (c) 2014 Daniel_Cortez
+[15:25:30] 	www.pro-pawn.ru
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: ColAndreas
+[15:25:30] *********************
+[15:25:30] ** Created By:     **
+[15:25:30] ** [uL]Chris42O    **
+[15:25:30] ** [uL]Slice       **
+[15:25:30] ** [uL]Pottus      **
+[15:25:30] *********************
+[15:25:30] No collision data found.
+[15:25:30] *********************
+[15:25:30]   ColAndreas Loaded
+[15:25:30]    v1.4.0
+[15:25:30] *********************
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: sscanf
+[15:25:30] 
+
+[15:25:30]  ===============================
+
+[15:25:30]       sscanf plugin loaded.     
+
+[15:25:30]          Version:  2.8.3        
+
+[15:25:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:25:30]  ===============================
+
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: timerfix
+[15:25:30]   >> TimerFix v1.5 successfully loaded.
+[15:25:30]   Loaded.
+[15:25:30]  Loaded 8 plugins.
+
+[15:25:30] 
+[15:25:30] Filterscripts
+[15:25:30] ---------------
+[15:25:30]   Loaded 0 filterscripts.
+
+[15:25:30] [sv:dbg:main:AmxLoad] : net game pointer (value:02409CC8) received
+[15:25:30] [sv:dbg:network:bind] : voice server running on port 62802
+[15:25:30] [Vehicle]: Semua kendaraan dibuat
+[15:25:30] [TextDraw]: Semua kesehatan teks dibuat
+[15:25:30] [DYNAMIC PICK] Loaded
+[15:25:30] [TP]: Semua input/output dibuat
+[15:25:31] [ATM]: Semua ATM dibuat
+[15:25:31] password = ""  (string)
+[15:25:31] [Repositories]: Semua gudang dimuat
+[15:25:31] 227 Load House
+[15:25:31] 228 Load House
+[15:25:31] 230 Load House
+[15:25:31] 231 Load House
+[15:25:31] 233 Load House
+[15:25:31] 236 Load House
+[15:25:31] 245 Load House
+[15:25:31] [Houses]: Rumah dimuat: 377
+[15:25:31] [Houses]: Penyewa diunggah: 0
+[15:25:31] [Family]: Keluarga : 14
+[15:25:31] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[15:25:31] [FuelST]: Isi ulang diunggah: 4
+[15:25:31] [Business]: Bisnis dimuat: 101
+[15:25:31] [GangZones]: Gangzon dimuat: 60
+[15:25:31] [GangRepositories]: Gudang Gang dimuat
+[15:25:31] Indonesia Unity Roleplay
+[15:25:31] Number of vehicle models: 85
+[15:26:52] [connection] 192.168.0.4:54278 requests connection cookie.
+[15:26:53] [connection] incoming connection: 192.168.0.4:54278 id: 0
+[15:26:53] [join] Jhon_Sing has joined the server (0:192.168.0.4)
+[15:27:30] Jhon_Sing[0] used command: /mm
+[15:28:20] [sv:dbg:network:connect] : disconnecting player (0) ...
+[15:28:20] [part] Jhon_Sing has left the server (0:1)
+[15:29:14]  -------------------------------------------
+[15:29:14]            SampVoice unloading...           
+[15:29:14]  -------------------------------------------
+[15:29:15] [dbg:raknet:free] : module releasing...
+[15:29:15] [dbg:raknet:free] : module released
+[15:29:15] [sv:dbg:network:free] : module releasing...
+[15:29:15] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:29:23] password = ""  (string)
+[15:29:23] lagcompmode = 1  (int)
+[15:29:23] filterscripts = ""  (string)
+[15:29:23] 
+[15:29:23] Server Plugins
+[15:29:23] --------------
+[15:29:23]  Loading plugin: sampvoice
+[15:29:23] [sv:dbg:network:init] : module initializing...
+[15:29:23] [dbg:raknet:init] : module initializing...
+[15:29:23] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[15:29:23] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[15:29:23] [dbg:raknet:init] : module initialized
+[15:29:23] [sv:dbg:network:init] : module initialized
+[15:29:23]  -------------------------------------------    
+[15:29:23]    ___                __   __    _              
+[15:29:23]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[15:29:23]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[15:29:23]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[15:29:23]                   |_|                           
+[15:29:23]  -------------------------------------------    
+[15:29:23]            SampVoice by MOR loaded              
+[15:29:23]  -------------------------------------------    
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: crashdetect
+[15:29:23]   CrashDetect plugin 4.19.4
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: streamer
+[15:29:23] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: mysql
+[15:29:23]  >> plugin.mysql: R39-6 successfully loaded.
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: dc_cmd
+[15:29:23]   Daniel's CMD plugin v2.8
+[15:29:23]     (c) 2014 Daniel_Cortez
+[15:29:23] 	www.pro-pawn.ru
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: ColAndreas
+[15:29:23] *********************
+[15:29:23] ** Created By:     **
+[15:29:23] ** [uL]Chris42O    **
+[15:29:23] ** [uL]Slice       **
+[15:29:23] ** [uL]Pottus      **
+[15:29:23] *********************
+[15:29:23] No collision data found.
+[15:29:23] *********************
+[15:29:23]   ColAndreas Loaded
+[15:29:23]    v1.4.0
+[15:29:23] *********************
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: sscanf
+[15:29:23] 
+
+[15:29:23]  ===============================
+
+[15:29:23]       sscanf plugin loaded.     
+
+[15:29:23]          Version:  2.8.3        
+
+[15:29:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:29:23]  ===============================
+
+[15:29:23]   Loaded.
+[15:29:23]  Loading plugin: timerfix
+[15:29:23]   >> TimerFix v1.5 successfully loaded.
+[15:29:23]   Loaded.
+[15:29:23]  Loaded 8 plugins.
+
+[15:29:23] 
+[15:29:23] Filterscripts
+[15:29:23] ---------------
+[15:29:23]   Loaded 0 filterscripts.
+
+[15:29:23] [sv:dbg:main:AmxLoad] : net game pointer (value:007D9CC8) received
+[15:29:23] [sv:dbg:network:bind] : voice server running on port 57681
+[15:29:23] [Vehicle]: Semua kendaraan dibuat
+[15:29:23] [TextDraw]: Semua kesehatan teks dibuat
+[15:29:23] [DYNAMIC PICK] Loaded
+[15:29:23] [TP]: Semua input/output dibuat
+[15:29:23] [ATM]: Semua ATM dibuat
+[15:29:23] password = ""  (string)
+[15:29:23] [Repositories]: Semua gudang dimuat
+[15:29:23] 227 Load House
+[15:29:23] 228 Load House
+[15:29:23] 230 Load House
+[15:29:23] 231 Load House
+[15:29:23] 233 Load House
+[15:29:23] 236 Load House
+[15:29:23] 245 Load House
+[15:29:23] [Houses]: Rumah dimuat: 377
+[15:29:23] [Houses]: Penyewa diunggah: 0
+[15:29:23] [Family]: Keluarga : 14
+[15:29:23] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[15:29:23] [FuelST]: Isi ulang diunggah: 4
+[15:29:23] [Business]: Bisnis dimuat: 101
+[15:29:23] [GangZones]: Gangzon dimuat: 60
+[15:29:23] [GangRepositories]: Gudang Gang dimuat
+[15:29:23] Indonesia Unity Roleplay
+[15:29:23] Number of vehicle models: 85
+[15:30:03] [connection] 192.168.0.4:59185 requests connection cookie.
+[15:30:04] [connection] incoming connection: 192.168.0.4:59185 id: 0
+[15:30:04] [join] Jhon_Sing has joined the server (0:192.168.0.4)
+[15:30:10] Mengambil bonus Jhon_Sing , sebelum bonus rekening bank 0
+[15:30:10] Mengambil bonus Jhon_Sing , setelah akun bonus bank 1500
+[15:30:50] Jhon_Sing[0] used command: /setstats
+[15:30:59] Jhon_Sing[0] used command: /setstats 0 1 5
+[15:31:11] Jhon_Sing[0] used command: /givecash 0 9999999
+[15:31:35] Jhon_Sing[0] used command: /setdonate 
+[15:31:39] Jhon_Sing[0] used command: /givedonate
+[15:31:42] Jhon_Sing[0] used command: /givedonate 0 500
+[15:31:47] Jhon_Sing[0] used command: /warn
+[15:31:59] Jhon_Sing[0] used command: /warn 0 test
+[15:32:01] [sv:dbg:network:connect] : disconnecting player (0) ...
+[15:32:01] [part] Jhon_Sing has left the server (0:1)
+[15:32:19]  -------------------------------------------
+[15:32:19]            SampVoice unloading...           
+[15:32:19]  -------------------------------------------
+[15:32:19] [dbg:raknet:free] : module releasing...
+[15:32:19] [dbg:raknet:free] : module released
+[15:32:19] [sv:dbg:network:free] : module releasing...
+[15:32:19] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:42:59] password = ""  (string)
+[15:42:59] lagcompmode = 1  (int)
+[15:42:59] filterscripts = ""  (string)
+[15:42:59] 
+[15:42:59] Server Plugins
+[15:42:59] --------------
+[15:42:59]  Loading plugin: sampvoice
+[15:42:59] [sv:dbg:network:init] : module initializing...
+[15:42:59] [dbg:raknet:init] : module initializing...
+[15:42:59] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[15:42:59] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[15:42:59] [dbg:raknet:init] : module initialized
+[15:42:59] [sv:dbg:network:init] : module initialized
+[15:42:59]  -------------------------------------------    
+[15:42:59]    ___                __   __    _              
+[15:42:59]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[15:42:59]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[15:42:59]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[15:42:59]                   |_|                           
+[15:42:59]  -------------------------------------------    
+[15:42:59]            SampVoice by MOR loaded              
+[15:42:59]  -------------------------------------------    
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: crashdetect
+[15:42:59]   CrashDetect plugin 4.19.4
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: streamer
+[15:42:59] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: mysql
+[15:42:59]  >> plugin.mysql: R39-6 successfully loaded.
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: dc_cmd
+[15:42:59]   Daniel's CMD plugin v2.8
+[15:42:59]     (c) 2014 Daniel_Cortez
+[15:42:59] 	www.pro-pawn.ru
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: ColAndreas
+[15:42:59] *********************
+[15:42:59] ** Created By:     **
+[15:42:59] ** [uL]Chris42O    **
+[15:42:59] ** [uL]Slice       **
+[15:42:59] ** [uL]Pottus      **
+[15:42:59] *********************
+[15:42:59] No collision data found.
+[15:42:59] *********************
+[15:42:59]   ColAndreas Loaded
+[15:42:59]    v1.4.0
+[15:42:59] *********************
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: sscanf
+[15:42:59] 
+
+[15:42:59]  ===============================
+
+[15:42:59]       sscanf plugin loaded.     
+
+[15:42:59]          Version:  2.8.3        
+
+[15:42:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:42:59]  ===============================
+
+[15:42:59]   Loaded.
+[15:42:59]  Loading plugin: timerfix
+[15:42:59]   >> TimerFix v1.5 successfully loaded.
+[15:42:59]   Loaded.
+[15:42:59]  Loaded 8 plugins.
+
+[15:42:59] 
+[15:42:59] Filterscripts
+[15:42:59] ---------------
+[15:42:59]   Loaded 0 filterscripts.
+
+[15:42:59] [sv:dbg:main:AmxLoad] : net game pointer (value:02209CC8) received
+[15:42:59] [sv:dbg:network:bind] : voice server running on port 50758
+[15:42:59] [Vehicle]: Semua kendaraan dibuat
+[15:42:59] [TextDraw]: Semua kesehatan teks dibuat
+[15:42:59] [DYNAMIC PICK] Loaded
+[15:42:59] [TP]: Semua input/output dibuat
+[15:42:59] [ATM]: Semua ATM dibuat
+[15:42:59] password = ""  (string)
+[15:42:59] [Repositories]: Semua gudang dimuat
+[15:42:59] 227 Load House
+[15:42:59] 228 Load House
+[15:42:59] 230 Load House
+[15:42:59] 231 Load House
+[15:42:59] 233 Load House
+[15:42:59] 236 Load House
+[15:42:59] 245 Load House
+[15:42:59] [Houses]: Rumah dimuat: 377
+[15:42:59] [Houses]: Penyewa diunggah: 0
+[15:42:59] [Family]: Keluarga : 14
+[15:42:59] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[15:42:59] [FuelST]: Isi ulang diunggah: 4
+[15:42:59] [Business]: Bisnis dimuat: 101
+[15:42:59] [GangZones]: Gangzon dimuat: 60
+[15:42:59] [GangRepositories]: Gudang Gang dimuat
+[15:42:59] Indonesia Unity Roleplay
+[15:42:59] Number of vehicle models: 85
+[15:43:22] [connection] 192.168.0.4:50469 requests connection cookie.
+[15:43:23] [connection] incoming connection: 192.168.0.4:50469 id: 0
+[15:43:24] [join] Jhon_Sing has joined the server (0:192.168.0.4)
+[15:44:19] [sv:dbg:network:connect] : disconnecting player (0) ...
+[15:44:19] [part] Jhon_Sing has left the server (0:1)
+[15:44:33]  -------------------------------------------
+[15:44:33]            SampVoice unloading...           
+[15:44:33]  -------------------------------------------
+[15:44:33] [dbg:raknet:free] : module releasing...
+[15:44:33] [dbg:raknet:free] : module released
+[15:44:33] [sv:dbg:network:free] : module releasing...
+[15:44:33] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:40:42] password = ""  (string)
+[16:40:42] lagcompmode = 1  (int)
+[16:40:42] filterscripts = ""  (string)
+[16:40:42] 
+[16:40:42] Server Plugins
+[16:40:42] --------------
+[16:40:42]  Loading plugin: sampvoice
+[16:40:42] [sv:dbg:network:init] : module initializing...
+[16:40:42] [dbg:raknet:init] : module initializing...
+[16:40:42] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[16:40:42] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[16:40:42] [dbg:raknet:init] : module initialized
+[16:40:42] [sv:dbg:network:init] : module initialized
+[16:40:42]  -------------------------------------------    
+[16:40:42]    ___                __   __    _              
+[16:40:42]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[16:40:42]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[16:40:42]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[16:40:42]                   |_|                           
+[16:40:42]  -------------------------------------------    
+[16:40:42]            SampVoice by MOR loaded              
+[16:40:42]  -------------------------------------------    
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: crashdetect
+[16:40:42]   CrashDetect plugin 4.19.4
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: streamer
+[16:40:42] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: mysql
+[16:40:42]  >> plugin.mysql: R39-6 successfully loaded.
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: dc_cmd
+[16:40:42]   Daniel's CMD plugin v2.8
+[16:40:42]     (c) 2014 Daniel_Cortez
+[16:40:42] 	www.pro-pawn.ru
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: ColAndreas
+[16:40:42] *********************
+[16:40:42] ** Created By:     **
+[16:40:42] ** [uL]Chris42O    **
+[16:40:42] ** [uL]Slice       **
+[16:40:42] ** [uL]Pottus      **
+[16:40:42] *********************
+[16:40:42] No collision data found.
+[16:40:42] *********************
+[16:40:42]   ColAndreas Loaded
+[16:40:42]    v1.4.0
+[16:40:42] *********************
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: sscanf
+[16:40:42] 
+
+[16:40:42]  ===============================
+
+[16:40:42]       sscanf plugin loaded.     
+
+[16:40:42]          Version:  2.8.3        
+
+[16:40:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:40:42]  ===============================
+
+[16:40:42]   Loaded.
+[16:40:42]  Loading plugin: timerfix
+[16:40:42]   >> TimerFix v1.5 successfully loaded.
+[16:40:42]   Loaded.
+[16:40:42]  Loaded 8 plugins.
+
+[16:40:42] 
+[16:40:42] Filterscripts
+[16:40:42] ---------------
+[16:40:42]   Loaded 0 filterscripts.
+
+[16:40:42] [sv:dbg:main:AmxLoad] : net game pointer (value:00719CC8) received
+[16:40:42] [sv:dbg:network:bind] : voice server running on port 59435
+[16:40:42] [Vehicle]: Semua kendaraan dibuat
+[16:40:42] [TextDraw]: Semua kesehatan teks dibuat
+[16:40:42] [DYNAMIC PICK] Loaded
+[16:40:42] [TP]: Semua input/output dibuat
+[16:40:42] [ATM]: Semua ATM dibuat
+[16:40:42] password = ""  (string)
+[16:40:42] [Repositories]: Semua gudang dimuat
+[16:40:42] 227 Load House
+[16:40:42] 228 Load House
+[16:40:42] 230 Load House
+[16:40:42] 231 Load House
+[16:40:42] 233 Load House
+[16:40:42] 236 Load House
+[16:40:42] 245 Load House
+[16:40:42] [Houses]: Rumah dimuat: 377
+[16:40:42] [Houses]: Penyewa diunggah: 0
+[16:40:42] [Family]: Keluarga : 14
+[16:40:42] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[16:40:42] [FuelST]: Isi ulang diunggah: 4
+[16:40:42] [Business]: Bisnis dimuat: 101
+[16:40:42] [GangZones]: Gangzon dimuat: 60
+[16:40:42] [GangRepositories]: Gudang Gang dimuat
+[16:40:42] Indonesia Unity Roleplay
+[16:40:42] Number of vehicle models: 85
+[16:41:05] [connection] 192.168.0.4:62262 requests connection cookie.
+[16:41:06] [connection] incoming connection: 192.168.0.4:62262 id: 0
+[16:41:07] [join] Jhon_Sing has joined the server (0:192.168.0.4)
+[16:41:45] [sv:dbg:network:connect] : disconnecting player (0) ...
+[16:41:45] [part] Jhon_Sing has left the server (0:1)
+[16:44:12]  -------------------------------------------
+[16:44:12]            SampVoice unloading...           
+[16:44:12]  -------------------------------------------
+[16:44:12] [dbg:raknet:free] : module releasing...
+[16:44:12] [dbg:raknet:free] : module released
+[16:44:12] [sv:dbg:network:free] : module releasing...
+[16:44:12] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:44:18] password = ""  (string)
+[16:44:18] lagcompmode = 1  (int)
+[16:44:18] filterscripts = ""  (string)
+[16:44:18] 
+[16:44:18] Server Plugins
+[16:44:18] --------------
+[16:44:18]  Loading plugin: sampvoice
+[16:44:18] [sv:dbg:network:init] : module initializing...
+[16:44:18] [dbg:raknet:init] : module initializing...
+[16:44:18] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[16:44:18] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[16:44:18] [dbg:raknet:init] : module initialized
+[16:44:18] [sv:dbg:network:init] : module initialized
+[16:44:18]  -------------------------------------------    
+[16:44:18]    ___                __   __    _              
+[16:44:18]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[16:44:18]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[16:44:18]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[16:44:18]                   |_|                           
+[16:44:18]  -------------------------------------------    
+[16:44:18]            SampVoice by MOR loaded              
+[16:44:18]  -------------------------------------------    
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: crashdetect
+[16:44:18]   CrashDetect plugin 4.19.4
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: streamer
+[16:44:18] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: mysql
+[16:44:18]  >> plugin.mysql: R39-6 successfully loaded.
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: dc_cmd
+[16:44:18]   Daniel's CMD plugin v2.8
+[16:44:18]     (c) 2014 Daniel_Cortez
+[16:44:18] 	www.pro-pawn.ru
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: ColAndreas
+[16:44:18] *********************
+[16:44:18] ** Created By:     **
+[16:44:18] ** [uL]Chris42O    **
+[16:44:18] ** [uL]Slice       **
+[16:44:18] ** [uL]Pottus      **
+[16:44:18] *********************
+[16:44:18] No collision data found.
+[16:44:18] *********************
+[16:44:18]   ColAndreas Loaded
+[16:44:18]    v1.4.0
+[16:44:18] *********************
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: sscanf
+[16:44:18] 
+
+[16:44:18]  ===============================
+
+[16:44:18]       sscanf plugin loaded.     
+
+[16:44:18]          Version:  2.8.3        
+
+[16:44:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:44:18]  ===============================
+
+[16:44:18]   Loaded.
+[16:44:18]  Loading plugin: timerfix
+[16:44:18]   >> TimerFix v1.5 successfully loaded.
+[16:44:18]   Loaded.
+[16:44:18]  Loaded 8 plugins.
+
+[16:44:18] 
+[16:44:18] Filterscripts
+[16:44:18] ---------------
+[16:44:18]   Loaded 0 filterscripts.
+
+[16:44:18] [sv:dbg:main:AmxLoad] : net game pointer (value:024E9CC8) received
+[16:44:18] [sv:dbg:network:bind] : voice server running on port 55284
+[16:44:18] [Vehicle]: Semua kendaraan dibuat
+[16:44:18] [TextDraw]: Semua kesehatan teks dibuat
+[16:44:18] [DYNAMIC PICK] Loaded
+[16:44:18] [TP]: Semua input/output dibuat
+[16:44:18] [ATM]: Semua ATM dibuat
+[16:44:18] password = ""  (string)
+[16:44:18] [Repositories]: Semua gudang dimuat
+[16:44:18] 227 Load House
+[16:44:18] 228 Load House
+[16:44:18] 230 Load House
+[16:44:18] 231 Load House
+[16:44:18] 233 Load House
+[16:44:18] 236 Load House
+[16:44:18] 245 Load House
+[16:44:18] [Houses]: Rumah dimuat: 377
+[16:44:18] [Houses]: Penyewa diunggah: 0
+[16:44:18] [Family]: Keluarga : 14
+[16:44:18] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[16:44:18] [FuelST]: Isi ulang diunggah: 4
+[16:44:18] [Business]: Bisnis dimuat: 101
+[16:44:18] [GangZones]: Gangzon dimuat: 60
+[16:44:18] [GangRepositories]: Gudang Gang dimuat
+[16:44:18] Indonesia Unity Roleplay
+[16:44:18] Number of vehicle models: 85
+[16:44:45] [connection] 192.168.0.4:61918 requests connection cookie.
+[16:44:46] [connection] incoming connection: 192.168.0.4:61918 id: 0
+[16:44:46] [join] test has joined the server (0:192.168.0.4)
+[16:45:25] [sv:dbg:network:connect] : disconnecting player (0) ...
+[16:45:25] [part] test has left the server (0:1)
+[16:45:29]  -------------------------------------------
+[16:45:29]            SampVoice unloading...           
+[16:45:29]  -------------------------------------------
+[16:45:29] [dbg:raknet:free] : module releasing...
+[16:45:29] [dbg:raknet:free] : module released
+[16:45:29] [sv:dbg:network:free] : module releasing...
+[16:45:29] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:30] password = ""  (string)
+[19:26:30] lagcompmode = 1  (int)
+[19:26:30] filterscripts = ""  (string)
+[19:26:30] 
+[19:26:30] Server Plugins
+[19:26:30] --------------
+[19:26:30]  Loading plugin: sampvoice
+[19:26:31] [sv:dbg:network:init] : module initializing...
+[19:26:31] [dbg:raknet:init] : module initializing...
+[19:26:31] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[19:26:31] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[19:26:31] [dbg:raknet:init] : module initialized
+[19:26:31] [sv:dbg:network:init] : module initialized
+[19:26:31]  -------------------------------------------    
+[19:26:31]    ___                __   __    _              
+[19:26:31]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:26:31]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:26:31]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:26:31]                   |_|                           
+[19:26:31]  -------------------------------------------    
+[19:26:31]            SampVoice by MOR loaded              
+[19:26:31]  -------------------------------------------    
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: crashdetect
+[19:26:31]   CrashDetect plugin 4.19.4
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: streamer
+[19:26:31] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: mysql
+[19:26:31]  >> plugin.mysql: R39-6 successfully loaded.
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: dc_cmd
+[19:26:31]   Daniel's CMD plugin v2.8
+[19:26:31]     (c) 2014 Daniel_Cortez
+[19:26:31] 	www.pro-pawn.ru
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: ColAndreas
+[19:26:31] *********************
+[19:26:31] ** Created By:     **
+[19:26:31] ** [uL]Chris42O    **
+[19:26:31] ** [uL]Slice       **
+[19:26:31] ** [uL]Pottus      **
+[19:26:31] *********************
+[19:26:31] No collision data found.
+[19:26:31] *********************
+[19:26:31]   ColAndreas Loaded
+[19:26:31]    v1.4.0
+[19:26:31] *********************
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: sscanf
+[19:26:31] 
+
+[19:26:31]  ===============================
+
+[19:26:31]       sscanf plugin loaded.     
+
+[19:26:31]          Version:  2.8.3        
+
+[19:26:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:26:31]  ===============================
+
+[19:26:31]   Loaded.
+[19:26:31]  Loading plugin: timerfix
+[19:26:31]   >> TimerFix v1.5 successfully loaded.
+[19:26:31]   Loaded.
+[19:26:31]  Loaded 8 plugins.
+
+[19:26:31] 
+[19:26:31] Filterscripts
+[19:26:31] ---------------
+[19:26:31]   Loaded 0 filterscripts.
+
+[19:26:31] [sv:dbg:main:AmxLoad] : net game pointer (value:024F9CC8) received
+[19:26:31] [sv:dbg:network:bind] : voice server running on port 55421
+[19:26:31] [Vehicle]: Semua kendaraan dibuat
+[19:26:31] [TextDraw]: Semua kesehatan teks dibuat
+[19:26:31] [DYNAMIC PICK] Loaded
+[19:26:31] [TP]: Semua input/output dibuat
+[19:26:31] [ATM]: Semua ATM dibuat
+[19:26:31] password = ""  (string)
+[19:26:31] [Repositories]: Semua gudang dimuat
+[19:26:31] 227 Load House
+[19:26:31] 228 Load House
+[19:26:31] 230 Load House
+[19:26:31] 231 Load House
+[19:26:31] 233 Load House
+[19:26:31] 236 Load House
+[19:26:31] 245 Load House
+[19:26:32] [Houses]: Rumah dimuat: 377
+[19:26:32] [Houses]: Penyewa diunggah: 0
+[19:26:32] [Family]: Keluarga : 14
+[19:26:32] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[19:26:32] [FuelST]: Isi ulang diunggah: 4
+[19:26:32] [Business]: Bisnis dimuat: 101
+[19:26:32] [GangZones]: Gangzon dimuat: 60
+[19:26:32] [GangRepositories]: Gudang Gang dimuat
+[19:26:32] Indonesia Unity Roleplay
+[19:26:32] Number of vehicle models: 85
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:28:43] password = ""  (string)
+[19:28:43] lagcompmode = 1  (int)
+[19:28:43] filterscripts = ""  (string)
+[19:28:43] 
+[19:28:43] Server Plugins
+[19:28:43] --------------
+[19:28:43]  Loading plugin: sampvoice
+[19:28:43] [sv:dbg:network:init] : module initializing...
+[19:28:43] [dbg:raknet:init] : module initializing...
+[19:28:43] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[19:28:43] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[19:28:43] [dbg:raknet:init] : module initialized
+[19:28:43] [sv:dbg:network:init] : module initialized
+[19:28:43]  -------------------------------------------    
+[19:28:43]    ___                __   __    _              
+[19:28:43]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:28:43]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:28:43]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:28:43]                   |_|                           
+[19:28:43]  -------------------------------------------    
+[19:28:43]            SampVoice by MOR loaded              
+[19:28:43]  -------------------------------------------    
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: crashdetect
+[19:28:43]   CrashDetect plugin 4.19.4
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: streamer
+[19:28:43] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: mysql
+[19:28:43]  >> plugin.mysql: R39-6 successfully loaded.
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: dc_cmd
+[19:28:43]   Daniel's CMD plugin v2.8
+[19:28:43]     (c) 2014 Daniel_Cortez
+[19:28:43] 	www.pro-pawn.ru
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: ColAndreas
+[19:28:43] *********************
+[19:28:43] ** Created By:     **
+[19:28:43] ** [uL]Chris42O    **
+[19:28:43] ** [uL]Slice       **
+[19:28:43] ** [uL]Pottus      **
+[19:28:43] *********************
+[19:28:43] No collision data found.
+[19:28:43] *********************
+[19:28:43]   ColAndreas Loaded
+[19:28:43]    v1.4.0
+[19:28:43] *********************
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: sscanf
+[19:28:43] 
+
+[19:28:43]  ===============================
+
+[19:28:43]       sscanf plugin loaded.     
+
+[19:28:43]          Version:  2.8.3        
+
+[19:28:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:28:43]  ===============================
+
+[19:28:43]   Loaded.
+[19:28:43]  Loading plugin: timerfix
+[19:28:43]   >> TimerFix v1.5 successfully loaded.
+[19:28:43]   Loaded.
+[19:28:43]  Loaded 8 plugins.
+
+[19:28:43] 
+[19:28:43] Filterscripts
+[19:28:43] ---------------
+[19:28:43]   Loaded 0 filterscripts.
+
+[19:28:43] [sv:dbg:main:AmxLoad] : net game pointer (value:023D9CC8) received
+[19:28:43] [sv:dbg:network:bind] : voice server running on port 60994
+[19:28:43] [Vehicle]: Semua kendaraan dibuat
+[19:28:43] [TextDraw]: Semua kesehatan teks dibuat
+[19:28:43] [DYNAMIC PICK] Loaded
+[19:28:43] [TP]: Semua input/output dibuat
+[19:28:43] [ATM]: Semua ATM dibuat
+[19:28:43] password = ""  (string)
+[19:28:43] [Repositories]: Semua gudang dimuat
+[19:28:43] 227 Load House
+[19:28:43] 228 Load House
+[19:28:43] 230 Load House
+[19:28:43] 231 Load House
+[19:28:43] 233 Load House
+[19:28:43] 236 Load House
+[19:28:43] 245 Load House
+[19:28:43] [Houses]: Rumah dimuat: 377
+[19:28:43] [Houses]: Penyewa diunggah: 0
+[19:28:43] [Family]: Keluarga : 14
+[19:28:43] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[19:28:43] [FuelST]: Isi ulang diunggah: 4
+[19:28:43] [Business]: Bisnis dimuat: 101
+[19:28:43] [GangZones]: Gangzon dimuat: 60
+[19:28:43] [GangRepositories]: Gudang Gang dimuat
+[19:28:43] Indonesia Unity Roleplay
+[19:28:43] Number of vehicle models: 85
+[19:28:44]  -------------------------------------------
+[19:28:44]            SampVoice unloading...           
+[19:28:44]  -------------------------------------------
+[19:28:44] [dbg:raknet:free] : module releasing...
+[19:28:44] [dbg:raknet:free] : module released
+[19:28:44] [sv:dbg:network:free] : module releasing...
+[19:28:44] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:28:54] password = ""  (string)
+[19:28:54] lagcompmode = 1  (int)
+[19:28:54] filterscripts = ""  (string)
+[19:28:54] 
+[19:28:54] Server Plugins
+[19:28:54] --------------
+[19:28:54]  Loading plugin: sampvoice
+[19:28:54] [sv:dbg:network:init] : module initializing...
+[19:28:54] [dbg:raknet:init] : module initializing...
+[19:28:54] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[19:28:54] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[19:28:54] [dbg:raknet:init] : module initialized
+[19:28:54] [sv:dbg:network:init] : module initialized
+[19:28:54]  -------------------------------------------    
+[19:28:54]    ___                __   __    _              
+[19:28:54]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:28:54]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:28:54]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:28:54]                   |_|                           
+[19:28:54]  -------------------------------------------    
+[19:28:54]            SampVoice by MOR loaded              
+[19:28:54]  -------------------------------------------    
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: crashdetect
+[19:28:54]   CrashDetect plugin 4.19.4
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: streamer
+[19:28:54] 
+
+*** Streamer Plugin v2.8 by Incognito loaded ***
+
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: mysql
+[19:28:54]  >> plugin.mysql: R39-6 successfully loaded.
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: dc_cmd
+[19:28:54]   Daniel's CMD plugin v2.8
+[19:28:54]     (c) 2014 Daniel_Cortez
+[19:28:54] 	www.pro-pawn.ru
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: ColAndreas
+[19:28:54] *********************
+[19:28:54] ** Created By:     **
+[19:28:54] ** [uL]Chris42O    **
+[19:28:54] ** [uL]Slice       **
+[19:28:54] ** [uL]Pottus      **
+[19:28:54] *********************
+[19:28:54] No collision data found.
+[19:28:54] *********************
+[19:28:54]   ColAndreas Loaded
+[19:28:54]    v1.4.0
+[19:28:54] *********************
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: sscanf
+[19:28:54] 
+
+[19:28:54]  ===============================
+
+[19:28:54]       sscanf plugin loaded.     
+
+[19:28:54]          Version:  2.8.3        
+
+[19:28:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:28:54]  ===============================
+
+[19:28:54]   Loaded.
+[19:28:54]  Loading plugin: timerfix
+[19:28:54]   >> TimerFix v1.5 successfully loaded.
+[19:28:54]   Loaded.
+[19:28:54]  Loaded 8 plugins.
+
+[19:28:54] 
+[19:28:54] Filterscripts
+[19:28:54] ---------------
+[19:28:54]   Loaded 0 filterscripts.
+
+[19:28:54] [sv:dbg:main:AmxLoad] : net game pointer (value:02399CC8) received
+[19:28:54] [sv:dbg:network:bind] : voice server running on port 64510
+[19:28:54] [Vehicle]: Semua kendaraan dibuat
+[19:28:54] [TextDraw]: Semua kesehatan teks dibuat
+[19:28:54] [DYNAMIC PICK] Loaded
+[19:28:54] [TP]: Semua input/output dibuat
+[19:28:54] [ATM]: Semua ATM dibuat
+[19:28:54] password = ""  (string)
+[19:28:54] [Repositories]: Semua gudang dimuat
+[19:28:54] 227 Load House
+[19:28:54] 228 Load House
+[19:28:54] 230 Load House
+[19:28:54] 231 Load House
+[19:28:54] 233 Load House
+[19:28:54] 236 Load House
+[19:28:54] 245 Load House
+[19:28:54] [Houses]: Rumah dimuat: 377
+[19:28:54] [Houses]: Penyewa diunggah: 0
+[19:28:54] [Family]: Keluarga : 14
+[19:28:54] [Hotels]: Hotel dimuat: 0 / Angka: 0
+[19:28:54] [FuelST]: Isi ulang diunggah: 4
+[19:28:54] [Business]: Bisnis dimuat: 101
+[19:28:54] [GangZones]: Gangzon dimuat: 60
+[19:28:54] [GangRepositories]: Gudang Gang dimuat
+[19:28:54] Indonesia Unity Roleplay
+[19:28:54] Number of vehicle models: 85
+[19:29:19] [connection] 192.168.0.2:64516 requests connection cookie.
+[19:29:21] [connection] incoming connection: 192.168.0.2:64516 id: 0
+[19:29:21] [join] Jhon_Sing has joined the server (0:192.168.0.2)
+[19:29:40] Jhon_Sing[0] used command: /mm
+[19:29:55] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:29:55] [part] Jhon_Sing has left the server (0:1)
+[19:30:01]  -------------------------------------------
+[19:30:01]            SampVoice unloading...           
+[19:30:01]  -------------------------------------------
+[19:30:01] [dbg:raknet:free] : module releasing...
+[19:30:01] [dbg:raknet:free] : module released
+[19:30:01] [sv:dbg:network:free] : module releasing...
+[19:30:01] [sv:dbg:network:free] : module released

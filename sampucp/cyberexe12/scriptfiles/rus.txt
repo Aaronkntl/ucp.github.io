@@ -1,0 +1,14 @@
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(59) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(59) -- (12) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "Textdraw0" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(59) -- (12) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(12) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(12) -- (14) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "Textdraw0" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(12) -- (14) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\GM DEDY\scriptfiles\TD_dedy.pwn(12) -- (14) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:5.
